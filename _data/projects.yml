@@ -6,7 +6,7 @@
   quote: >
     This project mainly involves WeChat Mini Program front-end and cloud development (JavaScript、WXML、WXSS), cloud server python language model algorithm.
   description: | # this will include new lines to allow paragraphs
-    Use OCR technology and n gram statistical language model to achieve automatic answering of English single-choice tasks and word-filling tasks.
+    Use OCR technology and n-gram statistical language model to achieve automatic answering of English single-choice tasks and word-filling tasks.
 
 - layout: left
   name: Smart home energy saving system based on user behavior analysis
