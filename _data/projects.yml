@@ -1,10 +1,8 @@
 - layout: left
   name: Smart home energy saving system based on user behavior analysis
   qualification: National-level university student innovation and entrepreneurship project
-  # link: github.com/shaonianruntu
+  link: bilibili.com/video/av27494462
   # github: shaonianruntu
-  link: [Video Presentation](% post_url {{ https://github.com/shaonianruntu/English-Multiple-Choice-And-Cloze-Test-Agent }} %)
-  youtube: shaonianruntu/English-Multiple-Choice-And-Cloze-Test-Agent
   dates: May 2017 to Sep 2019
   quote: >
     This project mainly involves C++/Python programming, MySQL database, machine learning algorithm, stm32 microcontroller C language programming, Raspberry Pi Python programming.
