@@ -42,11 +42,12 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  Alongside my interests in machine learing and software engineering some of my other interests and hobbies are:
    - Classical literture
    - Pop music
    - Table Tennis
    - Tourism 
+  This is my Douban account [晒月亮的孩子](https://www.douban.com/people/shaonianruntu/). If you have the same interest, maybe we can be a book friend.
 
 # Footer
 footer_show_references: true
