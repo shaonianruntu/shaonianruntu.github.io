@@ -1,8 +1,25 @@
 - layout: left
-  name: Super awesome project
-  link: github.com/shaonianruntu
+  name: Smart home energy saving system based on user behavior analysis
+  qualification: National-level university student innovation and entrepreneurship project
+  dates: May 2017 to September 2019
+  # link: github.com/shaonianruntu
   # github: shaonianruntu
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    This project mainly involves C++/Python programming, MySQL database, machine learning algorithm, stm32 microcontroller C language programming, Raspberry Pi Python programming.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>HTML</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    The project mainly collects the energy consumption information of each household appliance through the distributed energy consumption collection module and the environmental monitoring module, and transmits it through the ZigBee gateway.
+
+    The energy consumption information and environmental information are sent to the local information processing center, the local database is built, and the daily home appliance information in the database is learned in a pattern, thereby the operating state of the home appliance is estimated and automatically adjusted, and the working state of the home appliance (switch state/water temperature/light brightness, etc.) is automatically controlled.
+
+- layout: left
+  name: Smart home energy saving system based on user behavior analysis
+  qualification: National-level university student innovation and entrepreneurship project
+  # link: github.com/shaonianruntu
+  # github: shaonianruntu
+  quote: >
+    This project mainly involves C++/Python programming, MySQL database, machine learning algorithm, stm32 microcontroller C language programming, Raspberry Pi Python programming.
+  description: | # this will include new lines to allow paragraphs
+    The project mainly collects the energy consumption information of each household appliance through the distributed energy consumption collection module and the environmental monitoring module, and transmits it through the ZigBee gateway.
+
+    The energy consumption information and environmental information are sent to the local information processing center, the local database is built, and the daily home appliance information in the database is learned in a pattern, thereby the operating state of the home appliance is estimated and automatically adjusted, and the working state of the home appliance (switch state/water temperature/light brightness, etc.) is automatically controlled.
+
