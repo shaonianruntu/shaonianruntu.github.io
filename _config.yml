@@ -25,7 +25,8 @@ about_profile_image: images/user.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Nan Fang. I am from Shanghai, China. I'm a first-year postgraduate student at the School of Computer Science, Hangzhou Dianzi University. And I am a person who has a strong desire for knowledge. I like to explore new things and have a team spirit. As well as machine learning and computer vision I also have experience making software and web apps. I have worked at a number of labs gaining teamwork and leadership skills.
 
-  I am most skilled in: <b>Python</b>, <b>Pytorch</b>, <b>C++</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b> and <b>Playing Table Tennis</b>.
+  I am skilled in: <b>Python</b>, <b>Pytorch</b>, <b>C++</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b> and <b>Swift</b>
+
 
 # Projects Section
 # projects_title: Projects
@@ -42,6 +43,7 @@ more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
    - Classical literture
    - Pop music
+   - Table Tennis
    - Tourism 
 
 # Footer
