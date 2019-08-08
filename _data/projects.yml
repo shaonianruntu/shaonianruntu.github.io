@@ -20,6 +20,8 @@
     The project mainly collects the energy consumption information of each household appliance through the distributed energy consumption collection module and the environmental monitoring module, and transmits it through the ZigBee gateway.
 
     The energy consumption information and environmental information are sent to the local information processing center, the local database is built, and the daily home appliance information in the database is learned in a pattern, thereby the operating state of the home appliance is estimated and automatically adjusted, and the working state of the home appliance (switch state/water temperature/light brightness, etc.) is automatically controlled.
+    
+    Based on this project, we also submitted two software works 《基于用户行为分析的智能家居节能系统V1.0》 and 《电器识别可视化系统V1.0》.
 
 - layout: left
   name: Intelligent elderly care system based on speech recognition
@@ -31,3 +33,4 @@
   description: | # this will include new lines to allow paragraphs
     This project is mainly through the separate design of the cordless machine. The brooch-designed sub-machine is used to receive the user's voice information and the user's motion behavior sensor information, and send it to the base-machine for subsequent voice recognition, home appliance control, and two-way communication between children and the elderly.
 
+    Based on this project, we also submitted two software works 《基于语音识别的智能老人看护系统V1.0》 and 《基于无线自组网协议的家电控制系统V1.0》.
