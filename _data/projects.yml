@@ -4,7 +4,7 @@
   dates: May 2019
   github: shaonianruntu/English-Multiple-Choice-And-Cloze-Test-Agent
   quote: >
-    This project mainly involves WeChat Mini Program front-end and cloud development (JavaScript、WXML、WXSS), cloud server python language model algorithm.
+    This project mainly involves WeChat Mini Program front-end and cloud development (JavaScript、WXML、WXSS), cloud server Python language model algorithm.
   description: | # this will include new lines to allow paragraphs
     Use OCR technology and n-gram statistical language model to achieve automatic answering of English single-choice tasks and word-filling tasks.
 
