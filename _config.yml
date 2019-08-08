@@ -3,7 +3,7 @@ repository: shaonianruntu/shaonianruntu.github.io
 # favicon: images/favicon.ico
 
 # Personal info
-name: Nan Fang (方楠)
+name: Nan Fang 方楠
 title: Master's degree of Computer Science in reading 
 email: 514574496@qq.com
 website: www.shaonianruntu.club
@@ -23,7 +23,7 @@ website: www.shaonianruntu.club
 # about_title: About Me
 about_profile_image: images/user.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Nan Fang and I'm a first-year postgraduate student at the School of Computer Science, Hangzhou Dianzi University. As well as machine learning and computer vision I also have experience making software and web apps. I have worked at a number of laboratory gaining teamwork and leadership skills.
+  Hi, my name's Fang Nan. I am from Pudong, Shanghai City. I'm a first-year postgraduate student at the School of Computer Science, Hangzhou Dianzi University. I am a person who has a strong desire for knowledge. I like to explore new things and have a team spirit. As well as machine learning and computer vision I also have experience making software and web apps. I have worked at a number of laboratory gaining teamwork and leadership skills.
 
   I am most skilled in: <mark>Python</mark>, <mark>Pytorch</mark>, <mark>C++</mark>, <mark>HTML</mark>, <mark>CSS</mark>, <mark>JavaScript</mark> and <mark>Playing table tennis</mark>.
 
