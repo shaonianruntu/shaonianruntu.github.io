@@ -13,9 +13,9 @@
 
 - layout: left
   name: English multiple choice and cloze test agent
-  link: https://github.com/shaonianruntu/English-Multiple-Choice-And-Cloze-Test-Agent
+  #link: https://github.com/shaonianruntu/English-Multiple-Choice-And-Cloze-Test-Agent
   dates: May 2019
-  # github: shaonianruntu
+  github: shaonianruntu/English-Multiple-Choice-And-Cloze-Test-Agent
   quote: >
     This project mainly involves WeChat Mini Program front-end and cloud development (JavaScript、WXML、WXSS), cloud server python language model algorithm.
   description: | # this will include new lines to allow paragraphs
