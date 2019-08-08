@@ -21,7 +21,7 @@ website: www.shaonianruntu.club
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/user.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Nan Fang and I'm a first-year postgraduate student at the School of Computer Science, Hangzhou Dianzi University. As well as machine learning and computer vision I also have experience making software and web apps. I have worked at a number of laboratory gaining teamwork and leadership skills.
 
