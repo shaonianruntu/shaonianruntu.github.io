@@ -1,17 +1,4 @@
 - layout: left
-  name: Smart home energy saving system based on user behavior analysis
-  qualification: National-level university student innovation and entrepreneurship project
-  dates: May 2017 to Sep 2019
-  link: www.bilibili.com/video/av27494462
-  # github: shaonianruntu
-  quote: >
-    This project mainly involves C++/Python programming, MySQL database, machine learning algorithm, stm32 microcontroller C language programming, Raspberry Pi Python programming.
-  description: | # this will include new lines to allow paragraphs
-    The project mainly collects the energy consumption information of each household appliance through the distributed energy consumption collection module and the environmental monitoring module, and transmits it through the ZigBee gateway.
-
-    The energy consumption information and environmental information are sent to the local information processing center, the local database is built, and the daily home appliance information in the database is learned in a pattern, thereby the operating state of the home appliance is estimated and automatically adjusted, and the working state of the home appliance (switch state/water temperature/light brightness, etc.) is automatically controlled.
-
-- layout: left
   name: English multiple choice and cloze test agent
   #link: https://github.com/shaonianruntu/English-Multiple-Choice-And-Cloze-Test-Agent
   dates: May 2019
@@ -20,3 +7,27 @@
     This project mainly involves WeChat Mini Program front-end and cloud development (JavaScript、WXML、WXSS), cloud server python language model algorithm.
   description: | # this will include new lines to allow paragraphs
     Use OCR technology and n gram statistical language model to achieve automatic answering of English single-choice tasks and word-filling tasks.
+
+- layout: left
+  name: Smart home energy saving system based on user behavior analysis
+  qualification: National-level university student innovation and entrepreneurship project
+  dates: May 2018 to Sep 2019
+  link: www.bilibili.com/video/av27494462
+  # github: shaonianruntu
+  quote: >
+    This project mainly involves C++/Python programming, MySQL database, machine learning algorithm, STM32 microcontroller C language programming, Raspberry Pi Python programming.
+  description: | # this will include new lines to allow paragraphs
+    The project mainly collects the energy consumption information of each household appliance through the distributed energy consumption collection module and the environmental monitoring module, and transmits it through the ZigBee gateway.
+
+    The energy consumption information and environmental information are sent to the local information processing center, the local database is built, and the daily home appliance information in the database is learned in a pattern, thereby the operating state of the home appliance is estimated and automatically adjusted, and the working state of the home appliance (switch state/water temperature/light brightness, etc.) is automatically controlled.
+
+- layout: left
+  name: Intelligent elderly care system based on speech recognition
+  qualification: Provincial-level new seedling talent project
+  dates: Jun 2017 to Oct 2019
+  # github: shaonianruntu
+  quote: >  
+    This project mainly includes STM32 microcontroller C language programming, Raspberry Pi Python programming.
+  description: | # this will include new lines to allow paragraphs
+    This project is mainly through the separate design of the cordless machine. The brooch-designed sub-machine is used to receive the user's voice information and the user's motion behavior sensor information, and send it to the base-machine for subsequent voice recognition, home appliance control, and two-way communication between children and the elderly.
+
