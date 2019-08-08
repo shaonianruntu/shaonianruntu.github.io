@@ -3,7 +3,7 @@
   qualification: National-level university student innovation and entrepreneurship project
   # link: github.com/shaonianruntu
   # github: shaonianruntu
-  link: <a href="https://www.bilibili.com/video/av27494462">Video Presentation</a>
+  link: [Video Presentation]({{ https://github.com/shaonianruntu/English-Multiple-Choice-And-Cloze-Test-Agent }})
   dates: May 2017 to Sep 2019
   quote: >
     This project mainly involves C++/Python programming, MySQL database, machine learning algorithm, stm32 microcontroller C language programming, Raspberry Pi Python programming.
