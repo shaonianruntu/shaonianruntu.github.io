@@ -9,24 +9,24 @@ email: 514574496@qq.com
 website: www.shaonianruntu.github.io
 
 # Social links
-douban_username: test
-twitter_username: facespics
+# douban_username: test
+# twitter_username: facespics
 github_username:  shaonianruntu
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+# instagram_username: chillwildlife
+# linkedin_username: jameswgrant
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Nan Fang and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Nan Fang and I'm a first-year postgraduate student at the School of Computer Science, Hangzhou Dianzi University. As well as machine learning and computer vision I also have experience making software and web apps. I have worked at a number of laboratory gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Python</mark>, <mark>Pytorch</mark>, <mark>C++</mark>, <mark>HTML</mark>, <mark>CSS</mark>, <mark>JavaScript</mark> and <mark>Playing table tennis</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -41,10 +41,9 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - Classical literture
+   - Pop music
+   - Tourism 
 
 # Footer
 footer_show_references: true
