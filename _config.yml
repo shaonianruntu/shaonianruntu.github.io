@@ -27,7 +27,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am skilled in: <mark>Python</mark> <mark>Pytorch</mark> <mark>C++</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>JavaScript</mark> <mark>PHP</mark> <mark>MySQL</mark> and <mark>Swift</mark>.
   
-  And I am proficient in using: <mark>VSCode</mark> <mark>XCode</mark> <mark>Office</mark> <mark>macOS</mark> <mark>Ubuntu</mark>. 
+  And I am proficient in using: <mark>Visual Studio Code</mark> <mark>XCode</mark> <mark>Office</mark> <mark>macOS</mark> and <mark>Ubuntu</mark>. 
 
   At the same time, I also have language skills of: <mark>IELTS</mark> <mark>CET-6</mark> <mark>CET-4</mark>.
 
@@ -59,19 +59,6 @@ more_content: | # this will include new lines to allow paragraphs
     - [曹骁威学弟](https://accepteddoge.com/)
     - [柳婼学姐](https://www.liuchuo.net/)
     - [Kevin Tan 学长](https://kntan.coding.me/kntan/)
-
-
-# Link Section
-link_title: Friendly Link
-link_content: |
-  Here is the link to some of my friends' homepages, maybe you will be interested:
-    - [高飞老师](https://fei-hdu.github.io/)
-    - [罗宇矗同学](https://www.luoyuchu.com/)
-    - [叶家豪同学](https://yjhmelody.github.io/)
-    - [曹骁威学弟](https://accepteddoge.com/)
-    - [柳婼学姐](https://www.liuchuo.net/)
-    - [Kevin Tan 学长](https://kntan.coding.me/kntan/)
-
 
 # Footer
 footer_show_references: true
