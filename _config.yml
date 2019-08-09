@@ -60,6 +60,19 @@ more_content: | # this will include new lines to allow paragraphs
     - [柳婼学姐](https://www.liuchuo.net/)
     - [Kevin Tan 学长](https://kntan.coding.me/kntan/)
 
+
+# Link Section
+link_title: Friendly Link
+link_content: |
+  Here is the link to some of my friends' homepages, maybe you will be interested:
+    - [高飞老师](https://fei-hdu.github.io/)
+    - [罗宇矗同学](https://www.luoyuchu.com/)
+    - [叶家豪同学](https://yjhmelody.github.io/)
+    - [曹骁威学弟](https://accepteddoge.com/)
+    - [柳婼学姐](https://www.liuchuo.net/)
+    - [Kevin Tan 学长](https://kntan.coding.me/kntan/)
+
+
 # Footer
 footer_show_references: true
 
