@@ -25,9 +25,9 @@ about_profile_image: images/user.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Nan Fang 方楠. I am from Shanghai, China. I'm a first-year postgraduate student at the School of Computer Science, Hangzhou Dianzi University. And I am a person who has a strong desire for knowledge. I like to explore new things and have a team spirit. As well as machine learning and computer vision I also have experience making software and web apps. I have worked at a number of labs gaining teamwork and leadership skills.
 
-  I am skilled in: <mark>Python</mark> <mark>Pytorch</mark> <mark>C++</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>JavaScript</mark> <mark>PHP</mark> <mark>MySQL</mark> and <mark>Swift</mark>.
+  I am skilled in: <mark>Python</mark> <mark>Pytorch</mark> <mark>React(JavaScript)</mark> <mark>Laravel(PHP)</mark> <mark>C++</mark> and <mark>MySQL</mark>.
   
-  And I am proficient in using: <mark>VSCode</mark> <mark>Visual Studio</mark> <mark>XCode</mark> <mark>Office</mark> <mark>macOS</mark> and <mark>Ubuntu</mark>. 
+  And I am proficient in using: <mark>VSCode</mark> <mark>XCode</mark> <mark>Office</mark> <mark>macOS</mark> <mark>Ubuntu</mark> and <mark>Windows</mark>. 
 
   At the same time, I also have language skills of: <mark>IELTS</mark> <mark>CET-6</mark> <mark>CET-4</mark>.
 
