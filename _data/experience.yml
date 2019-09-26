@@ -1,9 +1,9 @@
 - layout: left
-  company:  Gonan Technology Company
+  company: Gonan Technology Company
   link: www.gonan.cn
-  job_title: Co-founder and CTO
+  job_title: Co-founder
   dates: May 2019 - Present
   quote: >
     This is a small personal entrepreneurship project. The content of the project is kept confidential.
   description: | # this will include new lines to allow paragraphs
-    I am currently responsible for web front-end and back-end development in this project. Maybe, I will continue to recruit some technology partners in the future.
+    I am currently responsible for UI design and web front-end. My Co-founder and partner [Shimo Ma (@CrazyOnes201)](https://github.com/CrazyOnes201) is responsible for back-end development in this project. Maybe, I will continue to recruit some technology partners in the future.
