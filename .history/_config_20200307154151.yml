@@ -44,11 +44,10 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in machine learing and software engineering some of my other interests and hobbies are:
-   - Classical literture & Swordsman fiction
-   - Historical drama & Costume drama
-   - Drive & Travel
-
-  This is my Douban account [shaonianruntu](https://www.douban.com/people/shaonianruntu/). If you have the same interest, maybe we can be a book friend.
+   - Classical literture
+   - Costume drama
+   - Table Tennis
+   - Tourism 
 
   Here is the link to some of my friends' homepages, maybe you will be interested:
     - [高飞老师](https://fei-hdu.github.io/)
@@ -56,6 +55,7 @@ more_content: | # this will include new lines to allow paragraphs
     - [叶家豪同学](https://yjhmelody.github.io/)
     - [曹骁威学弟](https://accepteddoge.com/)
     - [柳婼学姐](https://www.liuchuo.net/)
+    - [Kevin Tan 学长](https://kntan.coding.me/kntan/)
 
 # Footer
 footer_show_references: true
