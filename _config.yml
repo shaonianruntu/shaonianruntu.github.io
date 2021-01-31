@@ -61,8 +61,8 @@ content:
     content:
       - layout: left
         title: Smart home energy saving system based on user behavior analysis
-        qualification: National-level university student innovation and entrepreneurship project
-        dates: May 2018 to Sep 2019
+        sub_title: National-level university student innovation and entrepreneurship project
+        caption: May 2018 to Sep 2019
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
@@ -84,9 +84,9 @@ content:
           Here is a video show of this project: [基于用户行为分析的智能家居节能系统](https://www.bilibili.com/video/av27494462).
 
       - layout: left
-        name: Intelligent elderly care system based on speech recognition
-        qualification: Provincial-level new seedling talent project
-        dates: Jun 2017 to Oct 2019
+        title: Intelligent elderly care system based on speech recognition
+        sub_title: Provincial-level new seedling talent project
+        caption: Jun 2017 to Oct 2019
         # github: shaonianruntu
         quote: >
           This project mainly includes STM32 microcontroller C language programming, Raspberry Pi Python programming.
