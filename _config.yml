@@ -70,7 +70,9 @@ content:
         description: |
           本项目主要开发了一款基于语言模型算法和微信小程序开发平台的英语选词填空和单项选择自动智能作答软件。
 
-          在微信小程序软件开发过程中，我们采用了“微信小程序客户端+微信小程序云平台+云服务器”的自主软件设计架构，在微信小程序客户端实现基本的软件交互逻辑；在微信小程序云开发平台上实现云函数调用、云数据库管理和云存储功能；在云服务器中实现对英语选词填空句子和单项选择题目的基于 N-Gram 语言模型的句子组合方式评估，得到最优解答序列，并返回给微信小程序进行显示。通过使用我们自行设计的“微信小程序客户端+微信小程序云平台+云服务器”的三级软件设计架构，可以突破微信小程序客户端在对于软件规模、软件功能上的限制，简化我们微信小程序的前端架构，提高我们后端在设计上的自由度和软件后续版本更新的便捷度和可扩展性。便于我们软件的维护、升级和二次重构。
+          在微信小程序软件开发过程中，我们采用了“微信小程序客户端+微信小程序云平台+云服务器”的自主软件设计架构，在微信小程序客户端实现基本的软件交互逻辑；在微信小程序云开发平台上实现云函数调用、云数据库管理和云存储功能；在云服务器中实现对英语选词填空句子和单项选择题目的基于 N-Gram 语言模型的句子组合方式 AI 评估，得到最优解答序列，并返回给微信小程序进行显示。
+
+          通过使用我们自行设计的“微信小程序客户端+微信小程序云平台+云服务器”的三级软件设计架构，可以突破微信小程序客户端在对于软件规模、软件功能上的限制，简化我们微信小程序的前端架构，提高我们后端在设计上的自由度和软件后续版本更新的便捷度和可扩展性。便于我们软件的维护、升级和二次重构。
 
       - layout: left
         title: 基于用户行为分析的智能家居节能系统
@@ -144,7 +146,7 @@ content:
 
           为了实现对于LED灯管的转速与显示残留时长的协同控制，通过在LED灯管下方和台灯底座上方安装红外对接收发设备，LED灯管上的红外接收管每转动一圈就会导通一次，让单片机知道从哪一点开始播放字符或者图象具有很高的欣赏价值。
 
-          同时，我们也提供了该旋转文字显示LED的实现源代码和电子集成电路设计版图：[shaonianruntu/Rotating-LED](https://github.com/shaonianruntu/Rotating-LED) 以及演示视频：[旋转文字显示LED](https://www.bilibili.com/video/BV12s411K7yK)
+          同时，我们也提供了该旋转文字显示LED的实现源代码和电子集成电路设计版图：[shaonianruntu/Rotating-LED](https://github.com/shaonianruntu/Rotating-LED) 以及演示视频：[旋转文字显示LED](https://www.bilibili.com/video/BV12s411K7yK)。
 
   # - title: Experience # Title for the section
   #   layout: list # Type of content section (list/text)
@@ -164,23 +166,23 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Hangzhou Dianzi University
-        caption: 2019 - Present
-        sub_title: MSc Computer Science
+        title: 杭州电子科技大学
+        caption: 2019年9月至今
+        sub_title: 计算机科学与技术硕士学位
         quote: >
-          Hangzhou Dianzi University (HDU) was founded in 1956. It is a comprehensive university and one of the best top 5 universities with its own distinctive features in the field of electronic science and technology, engineering and information technology as well as management and accounting,etc.
-        description: | # this will include new lines to allow paragraphs
+          杭州电子科技大学（HDU）成立于1956年，是一所电子信息特色突出，经管学科优势明显的教学研究型综合性大学。
+        description:
           During my time at HDU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a laboratory member of the [**Media Intelligence Laboratory**](http://mil.hdu.edu.cn/) and doing research in computer vision.
 
       - layout: left
-        title: Hangzhou Dianzi University
-        caption: 2015 - 2019
-        sub_title: BSc Computer Science
+        title: 杭州电子科技大学
+        caption: 2015年9月至2019年6月
+        sub_title: 计算机科学与技术学士学位
         quote: >
-          Hangzhou Dianzi University (HDU) was founded in 1956. It is a comprehensive university and one of the best top 5 universities with its own distinctive features in the field of electronic science and technology, engineering and information technology as well as management and accounting,etc.
-        description: | # this will include new lines to allow paragraphs
+          杭州电子科技大学（HDU）成立于1956年，是一所电子信息特色突出，经管学科优势明显的教学研究型综合性大学。
+        description: |
           During my time at HDU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I joint the **Hangzhou Dianzi University Microchip Joint Technological Innovation Incubation Laboratory** in my freshman year. And after that I worked with the lab's team members to complete some projects, particated in some competitions, and achieved some good results. I am mainly repsonible for some code writing work in the team projects and taking on role as **Head of Software Group**. In my laboratory time, I led my team members finshed **four college-level new seedling project**, **one provincial-level new seedling talent project**, **one national-level university student innovation and entrepreneurship project** as the role of team leader of these projects, and published a total of **four computer software copyrights**. 
@@ -194,7 +196,7 @@ content:
           Zhejiang Yuyao High School is a key high school located in Yuyao City, Ningbo City, China.
 
           Founded in 1935, the school is the first middle school in the history of Yuyao. It was only the junior school when it was first built, and opened in 1943. In 1961, the school became a pilot high school in Zhejiang Province. In 1981, it became a key high school in Zhejiang Province. After 1989, it became a special high school. In 1995, it became a primary key high school in Zhejiang Province.
-        description: | # this will include new lines to allow paragraphs
+        description: |
 
   - title: A Little More About Me
     layout: text
