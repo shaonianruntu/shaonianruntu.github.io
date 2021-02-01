@@ -65,7 +65,7 @@ content:
         title: 英语选词填空智能作答机器人
         sub_title: 杭州电子科技大学本科生毕业设计
         caption: 2018年12月至2019年6月
-        uote: >
+        quote: >
           本项目主要涉及基于 JavaScript 和 JAVA 语言的微信小程序前后端开发，基于 MySQL 语言的数据库，基于 Tensorflow 语言的AI自然语言处理算法，基于 Pytorch 语法的AI图像文字识别算法。
         description: |
           本项目主要开发了一款基于语言模型算法和微信小程序开发平台的英语选词填空和单项选择自动智能作答软件。
