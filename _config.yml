@@ -48,7 +48,7 @@ linkedin_username: fangnan97
 about_profile_image: images/user.jpg
 about_content: | # this will include new lines to allow paragraphs
   你好👋，我是方楠。我来自于中国上海。现在是我在杭州电子科技大学攻读我的计算机科学与技术学术型硕士文凭学位的第二年。
-  
+
   Hi, my name's Nan Fang 方楠. I am from Shanghai, China. I'm a first-year postgraduate student at the School of Computer Science, Hangzhou Dianzi University. And I am a person who has a strong desire for knowledge. I like to explore new things and have a team spirit. As well as machine learning and computer vision I also have experience making software and web apps. I have worked at a number of labs gaining teamwork and leadership skills.
 
   I am skilled in: <mark>Python</mark> <mark>Pytorch</mark> <mark>React</mark> <mark>Laravel</mark> <mark>C++</mark> and <mark>MySQL</mark>.
@@ -64,7 +64,7 @@ content:
       - layout: left
         title: 基于用户行为分析的智能家居节能系统
         sub_title: 国家级大学生创新创业项目
-        caption:2018年5月至2019年6月
+        caption: 2018年5月至2019年6月
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
@@ -93,7 +93,7 @@ content:
           该项目主要涉及基于 C/C++ 语言的 STM32 ARM 芯片、微芯 PLC18、STC51 芯片和树莓派的控制算法、物联网网关协议，电子集成电路设计，基于 JavaScript 和 JAVA 语言的网站开发，基于 MySQL 语言的数据库，基于 Tensorflow 语言的AI自然语言处理算法。
         description: | # this will include new lines to allow paragraphs
           本项目主要开发了一种新型基于语音识别的智能老人看护系统。
-          
+
           该系统由智能便携式胸针和智能家庭控制中心两部分构成，智能胸针除实现基本的装饰功能外，还能够实现防摔倒提醒和跌倒报警，当老人将要跌倒时通过胸针上自带的报警模块对老人进行预警提醒；到老人跌倒在地难以爬起时，通过智能家庭控制中心以短信的方式实时向子女报警。除此之外，智能胸针还具有语音信号采集的功能，将采集到的信号通过无线传输协议发送给主机进行处理。
 
           智能家庭控制中心主要做的是语音信号处理和智能家庭控制，并添加远程智能摄像头，让子女能够实时监控家庭安全。从机的无线麦克风阵列采集到的经过前端降噪处理的语音通过在主机上进行汉语口音自适应处理、非命令词智能语义分析后得到精确的指令信息，控制主机实现对于相应的智能家居的控制。
@@ -101,7 +101,6 @@ content:
           基于该项目，我们还发表有两篇计算机软件著作：《基于语音识别的智能老人看护系统V1.0》和《基于无线自组网协议的家电控制系统V1.0》。
 
           同时，我们也提供了该智能老人看护系统的演示视频：[基于语音识别的智能老人看护系统](https://www.bilibili.com/video/av81282247)。
-
 
   # - title: Experience # Title for the section
   #   layout: list # Type of content section (list/text)
