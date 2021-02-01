@@ -6,8 +6,8 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: 方楠
-title: 计算机科学与技术硕士学位在读
+name: Nan Fang 方楠
+title: Master's degree of Computer Science in reading
 email: fangnan97@qq.com
 # website: shaonianruntu.github.io
 
@@ -47,8 +47,6 @@ linkedin_username: fangnan97
 # about_title: About Me
 about_profile_image: images/user.jpg
 about_content: | # this will include new lines to allow paragraphs
-  你好👋，我是方楠。我来自于中国上海。现在是我在杭州电子科技大学攻读我的计算机科学与技术学术型硕士文凭学位的第二年。
-  
   Hi, my name's Nan Fang 方楠. I am from Shanghai, China. I'm a first-year postgraduate student at the School of Computer Science, Hangzhou Dianzi University. And I am a person who has a strong desire for knowledge. I like to explore new things and have a team spirit. As well as machine learning and computer vision I also have experience making software and web apps. I have worked at a number of labs gaining teamwork and leadership skills.
 
   I am skilled in: <mark>Python</mark> <mark>Pytorch</mark> <mark>React</mark> <mark>Laravel</mark> <mark>C++</mark> and <mark>MySQL</mark>.
@@ -62,9 +60,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 基于用户行为分析的智能家居节能系统
-        sub_title: 国家级大学生创新创业项目
-        caption:2018年5月至2019年6月
+        title: Smart home energy saving system based on user behavior analysis
+        sub_title: National-level university student innovation and entrepreneurship project
+        caption: May 2018 to Sep 2019
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
@@ -75,33 +73,29 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          该项目主要涉及基于 C/C++ 语言的 STM32 ARM 芯片控制算法、物联网网关协议，电子集成电路设计，基于 Python 语言的树莓派控制算法，结合 MySQL 数据库的用户行为分析 AI 机器学习算法。
-        description: |
-          本项目主要开发了一种基于用户行为分析的智能家居节能系统。使用预测算法实现对用户家电使用行为的预测，提出一种室内家电运行调度算法，在保障用户舒适度的前提下，通过对电器运作状态的动态规划，有效提高能源的利用效率，减少用户的电力支出，达到节能的目的。
+          This project mainly involves C++/Python programming, MySQL database, machine learning algorithm, STM32 microcontroller C language programming, Raspberry Pi Python programming.
+        description: | # this will include new lines to allow paragraphs
+          The project mainly collects the energy consumption information of each household appliance through the distributed energy consumption collection module and the environmental monitoring module, and transmits it through the ZigBee gateway.
 
-          为了实现对家用电气的非侵入式状态检测和整屋家用电气的全局状态分析，我们自行研发了一款基于无线智能网关的智能家居节能系统，通过采用能耗采集模块和传感器监测模块对电器的用电情况和使用环境信息进行采集，在本地节点对电器能耗信息进行简单的处理后，通过ZigBee无线通信模块将用电情况发送给智能网关进行电器识别和用户行为分析学习，并将计算出来的控制信息反馈给控制模块，对电器状态进行相应的智能控制。同时，将电器的能耗信息和操作状态通过云平台反馈给用户。
+          The energy consumption information and environmental information are sent to the local information processing center, the local database is built, and the daily home appliance information in the database is learned in a pattern, thereby the operating state of the home appliance is estimated and automatically adjusted, and the working state of the home appliance (switch state/water temperature/light brightness, etc.) is automatically controlled.
 
-          基于该项目，我们还发表有两篇计算机软件著作：《基于用户行为分析的智能家居节能系统V1.0》和《电器识别可视化系统V1.0》。
+          Based on this project, we also submitted two computer software copyrights, 《基于用户行为分析的智能家居节能系统V1.0》 and 《电器识别可视化系统V1.0》.
 
-          同时，我们也提供了该智能调节系统的演示视频：[基于用户行为分析的智能家居节能系统](https://www.bilibili.com/video/av27494462)。
+          Here is a video show of this project: [基于用户行为分析的智能家居节能系统](https://www.bilibili.com/video/av27494462).
 
       - layout: left
-        title: 基于语音识别的智能老人看护系统
-        sub_title: 浙江省新苗人才计划
-        caption: 2017年6月至2019年10月
+        title: Intelligent elderly care system based on speech recognition
+        sub_title: Provincial-level new seedling talent project
+        caption: Jun 2017 to Oct 2019
+        # github: shaonianruntu
         quote: >
-          该项目主要涉及基于 C/C++ 语言的 STM32 ARM 芯片、微芯 PLC18、STC51 芯片和树莓派的控制算法、物联网网关协议，电子集成电路设计，基于 JavaScript 和 JAVA 语言的网站开发，基于 MySQL 语言的数据库，基于 Tensorflow 语言的AI自然语言处理算法。
+          This project mainly includes STM32 microcontroller C language programming, Raspberry Pi Python programming.
         description: | # this will include new lines to allow paragraphs
-          本项目主要开发了一种新型基于语音识别的智能老人看护系统。
-          
-          该系统由智能便携式胸针和智能家庭控制中心两部分构成，智能胸针除实现基本的装饰功能外，还能够实现防摔倒提醒和跌倒报警，当老人将要跌倒时通过胸针上自带的报警模块对老人进行预警提醒；到老人跌倒在地难以爬起时，通过智能家庭控制中心以短信的方式实时向子女报警。除此之外，智能胸针还具有语音信号采集的功能，将采集到的信号通过无线传输协议发送给主机进行处理。
+          This project is mainly through the separate design of the cordless machine. The brooch-designed sub-machine is used to receive the user's voice information and the user's motion behavior sensor information, and send it to the base-machine for subsequent voice recognition, home appliance control, and two-way communication between children and the elderly.
 
-          智能家庭控制中心主要做的是语音信号处理和智能家庭控制，并添加远程智能摄像头，让子女能够实时监控家庭安全。从机的无线麦克风阵列采集到的经过前端降噪处理的语音通过在主机上进行汉语口音自适应处理、非命令词智能语义分析后得到精确的指令信息，控制主机实现对于相应的智能家居的控制。
+          Based on this project, we also submitted two computer software copyrights, 《基于语音识别的智能老人看护系统V1.0》 and 《基于无线自组网协议的家电控制系统V1.0》.
 
-          基于该项目，我们还发表有两篇计算机软件著作：《基于语音识别的智能老人看护系统V1.0》和《基于无线自组网协议的家电控制系统V1.0》。
-
-          同时，我们也提供了该智能老人看护系统的演示视频：[基于语音识别的智能老人看护系统](https://www.bilibili.com/video/av81282247)。
-
+          Here is a video show of this project: [基于语音识别的智能老人看护系统](https://www.bilibili.com/video/av81282247).
 
   # - title: Experience # Title for the section
   #   layout: list # Type of content section (list/text)
