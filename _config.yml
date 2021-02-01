@@ -65,6 +65,11 @@ content:
         title: 基于用户行为分析的智能家居节能系统
         sub_title: 国家级大学生创新创业项目
         caption: 2018年5月至2019年6月
+
+      - layout: left
+        title: 基于用户行为分析的智能家居节能系统
+        sub_title: 国家级大学生创新创业项目
+        caption: 2018年5月至2019年6月
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
@@ -91,7 +96,7 @@ content:
         caption: 2017年6月至2019年10月
         quote: >
           该项目主要涉及基于 C/C++ 语言的 STM32 ARM 芯片、微芯 PLC18、STC51 芯片和树莓派的控制算法、物联网网关协议，电子集成电路设计，基于 JavaScript 和 JAVA 语言的网站开发，基于 MySQL 语言的数据库，基于 Tensorflow 语言的AI自然语言处理算法。
-        description: | # this will include new lines to allow paragraphs
+        description: |
           本项目主要开发了一种新型基于语音识别的智能老人看护系统。
 
           该系统由智能便携式胸针和智能家庭控制中心两部分构成，智能胸针除实现基本的装饰功能外，还能够实现防摔倒提醒和跌倒报警，当老人将要跌倒时通过胸针上自带的报警模块对老人进行预警提醒；到老人跌倒在地难以爬起时，通过智能家庭控制中心以短信的方式实时向子女报警。除此之外，智能胸针还具有语音信号采集的功能，将采集到的信号通过无线传输协议发送给主机进行处理。
@@ -101,6 +106,43 @@ content:
           基于该项目，我们还发表有两篇计算机软件著作：《基于语音识别的智能老人看护系统V1.0》和《基于无线自组网协议的家电控制系统V1.0》。
 
           同时，我们也提供了该智能老人看护系统的演示视频：[基于语音识别的智能老人看护系统](https://www.bilibili.com/video/av81282247)。
+
+      - layout: left
+        title: 防雾霾空气调节智能盒子
+        sub_title: 杭州电子科技大学芯苗人才计划
+        caption: 2016年12月至2017年12月
+        quote: >
+          该项目设计基于 C/C++ 语言的 STM32 芯片控制算法、物联网网关协议，电子集成电路设计。
+        description: |
+          该项目主要开发了一款小体积的具有防雾霾功能的空气调节智能盒子。具有监测室内外温度，空气湿度，二氧化碳浓度以及颗粒物浓度等功能，并可以根据这些指标的监测结果对数据进行分析，从而实现判断是否存在雾霾以及雾霾浓度测量功能。同时，如果监测到有雾霾超过一定量的浓度，盒子还可以自动调节门窗开关。
+
+      - layout: left
+        title: 基于STM32的智能儿童看护手表
+        sub_title: 杭州电子科技大学芯苗人才计划
+        caption: 2016年12月至2017年12月
+        quote: >
+          该项目设计基于 C/C++ 语言的 STM32 芯片控制算法，电子集成电路设计。
+        description: |
+          该项目主要开发了一款集儿童健康和安全两个方面于一体的智能儿童看护手表，以 STM32 MCU 作为主控芯片, 结合外围电路和多种传感器加以实现。根据监护人的实际需求，该设计涵盖运动检测、环境监测、GPS定位、SOS报警四大方向并且具有记录儿童运动步数、GPS采集运动里程、时间和速度、温湿度检测、雾霾检测和报警、记录活动路程、设置电子栅栏超出范围短信通知家长、一键呼叫家长、向家长发送特定短信等多项功能。
+
+          该智能儿童看护手表的设计充分考虑了孩子监护人的实际需求，并通过电子技术的方法加以解决。
+
+      - layout: left
+        title: 旋转文字显示LED
+        sub_title: 杭州电子科技大学芯苗人才计划
+        caption: 2016年6月至2016年7月
+        link: github.com/shaonianruntu/Rotating-LED
+        link_text: Project Website
+        quote: >
+          该项目设计基于 C/C++ 语言的 STM32 芯片控制算法，电子集成电路设计。
+        description: |
+          该项目主要开发了具有中英文、字符符号和流水花纹样式显示功能的旋转LED灯，利用人眼的视觉残留效应，自动调节LED灯管的旋转周期时间，以利用一根高速旋转的灯管实现整体圆周面的画面恒久显示。
+
+          为了实现对于LED灯管的转速与显示残留时长的协同控制，通过在LED灯管下方和台灯底座上方安装红外对接收发设备，LED灯管上的红外接收管每转动一圈就会导通一次，让单片机知道从哪一点开始播放字符或者图象具有很高的欣赏价值。
+
+          同时，我们也提供了该旋转文字显示LED的实现源代码和电子集成电路设计版图：[shaonianruntu/Rotating-LED](https://github.com/shaonianruntu/Rotating-LED) 以及演示视频：[旋转文字显示LED](https://www.bilibili.com/video/BV12s411K7yK)
+
+          本项目主要开发了一种新型基于语音识别的智能老人看护系统。
 
   # - title: Experience # Title for the section
   #   layout: list # Type of content section (list/text)
