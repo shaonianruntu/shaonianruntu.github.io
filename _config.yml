@@ -147,7 +147,7 @@ content:
   - title: 工作经历 # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: right
         title: 杭州荟视科技有限公司
         link: overvision.cn
         sub_title: 创始人
@@ -191,50 +191,52 @@ content:
   - title: 获奖经历
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: 2017～2018
+      - layout: right
+        title: 杭州电子科技大学
+        caption: 2019年9月至今
+        sub_title: 计算机科学与技术硕士学位
         description: |
-          校三等奖学金
+          《杭州电子科技大学研究生奖学金》一等奖
 
-          单项创业奖学金
+          《杭州电子科技大学研究生奖学金》二等奖
 
-          校三等奖学金
+          《第六届浙江省国际“互联网+”大学生创新创业大赛》铜奖
 
-      - layout: left
-        title: 2017～2018
+          《杭州电子科技大学“互联网+”大学生创新创业大赛》一等奖 * 2 
+
+
+          《浙江省第十二届“挑战杯·宁波江北”大学生创业计划竞赛》二等奖
+
+          《杭州电子科技大学“挑战杯北”大学生创业计划竞赛》一等奖
+
+          《钱江新区大学生创新创业大赛》40强
+
+          《国家级大学生创新创业训练计划》
+
+          《杭州电子科技大学大学生创新创业训练计划》
+
+          《省教育厅一般科研项目》
+
+          《杭州电子科技大学研究生科研创新基金》 * 2
+
+      - layout: right
+        title: 杭州电子科技大学
+        caption: 2015年9月至2019年6月
+        sub_title: 计算机科学与技术学士学位
         description: |
-          校三等奖学金
+          《杭州电子科技大学优秀团干部》
 
-          单项创业奖学金
+          《杭州电子科技大学奖学金》一等奖
 
-          校三等奖学金
+          《杭州电子科技大学奖学金》三等奖 * 5
 
-      - layout: left
-        title: 2017～2018
-        description: |
-          校三等奖学金
+          《国家级大学生创新创业训练计划》
 
-          单项创业奖学金
+          《浙江省新苗人才计划》
 
-          校三等奖学金
+          《杭州电子科技大学电子信息学院新苗人才计划》 * 2
 
-      - layout: left
-        title: 2016～2017
-        description: |
-          校三等奖学金
-
-          校三等奖学金
-
-      - layout: left
-        title: 2015～2016
-        description: |
-          校一等奖学金
-
-          优秀团干部
-
-          校三等奖学金
-
-  - title: A Little More About Me
+  - title: 更多
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in machine learing and software engineering some of my other interests and hobbies are:
