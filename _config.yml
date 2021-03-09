@@ -178,7 +178,7 @@ content:
         sub_title: 计算机科学与技术硕士学位
         quote: >
           杭州电子科技大学（杭电，HDU）成立于1956年，是一所电子信息特色突出，经管学科优势明显的教学研究型综合性大学。
-        description:
+        description: |
           During my time at HDU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a laboratory member of the [**Media Intelligence Laboratory**](http://mil.hdu.edu.cn/) and doing research in computer vision.
@@ -197,14 +197,27 @@ content:
           The experience in the laboratory allowed me to be in touch with some research projects and related professional knowledge earlier than other students. It also broadened my horizons and improved my self-learning ability and information gathering ability.
 
       - layout: left
-        title: 浙江省余姚中学
-        caption: 2012 - 2015
-        quote: >
-          浙江省余姚中学，是一所位于中国宁波市余姚市的重点高中。该校创建于1935年，是余姚历史上第一所中学，初建时仅有初中部，1943年起开设高中。1961年该校成为浙江省试点中学，1981年成为浙江省重点中学。1989年后成为专门高中，1995年成为浙江省一级重点中学
+        title: 2016年
         description: |
+          - 国家奖学金
+          - 浙江省新苗人才计划
+
+      - layout: left
+        title: 2015年
+        description: |
+          - 国家奖学金
+          - 浙江省新苗人才计划
+
 
   - title: 获奖经历
-    layout: text
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 杭州电子科技大学
+        caption: 2015年9月至2019年6月
+        sub_title: 计算机科学与技术学士学位
+        quote: >
+
     content: |
       - 2014/07/12: 国家奖学金
       - 2015/11/13: 浙江省新苗人才计划
