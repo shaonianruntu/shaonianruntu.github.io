@@ -202,14 +202,16 @@ content:
       - layout: left
         title: 2016年
         description: |
-          - 国家奖学金
-          - 浙江省新苗人才计划
+          国家奖学金
+
+          浙江省新苗人才计划
 
       - layout: left
         title: 2015年
         description: |
-          - 国家奖学金
-          - 浙江省新苗人才计划
+          国家奖学金
+
+          浙江省新苗人才计划
 
   - title: A Little More About Me
     layout: text
