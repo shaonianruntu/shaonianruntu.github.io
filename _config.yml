@@ -196,6 +196,9 @@ content:
 
           The experience in the laboratory allowed me to be in touch with some research projects and related professional knowledge earlier than other students. It also broadened my horizons and improved my self-learning ability and information gathering ability.
 
+  - title: 获奖经历
+    layout: list # Type of content section (list/text)
+    content:
       - layout: left
         title: 2016年
         description: |
@@ -207,21 +210,6 @@ content:
         description: |
           - 国家奖学金
           - 浙江省新苗人才计划
-
-
-  - title: 获奖经历
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: 杭州电子科技大学
-        caption: 2015年9月至2019年6月
-        sub_title: 计算机科学与技术学士学位
-        quote: >
-
-    content: |
-      - 2014/07/12: 国家奖学金
-      - 2015/11/13: 浙江省新苗人才计划
-      - 2018/11/12: 国家级自然科学基金
 
   - title: A Little More About Me
     layout: text
