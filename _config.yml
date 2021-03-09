@@ -179,6 +179,8 @@ content:
         quote: >
           杭州电子科技大学（杭电，HDU）成立于1956年，是一所电子信息特色突出，经管学科优势明显的教学研究型综合性大学。
         description: |
+
+
           During my time at HDU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a laboratory member of the [**Media Intelligence Laboratory**](http://mil.hdu.edu.cn/) and doing research in computer vision.
@@ -190,6 +192,13 @@ content:
         quote: >
           杭州电子科技大学（HDU）成立于1956年，是一所电子信息特色突出，经管学科优势明显的教学研究型综合性大学。
         description: |
+          科研经历：
+            2015～2019: 杭州电子科技大学Microchip大学生科技创新孵化器实验室，软件组负责人
+          社团经历：
+            2015～2016: 杭州电子科技大学创业联盟，宣传部副部长
+            2015～2016: 杭州电子科技大学红色家园，设计部成员
+          获奖经历：
+
           During my time at HDU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I joint the **Hangzhou Dianzi University Microchip Joint Technological Innovation Incubation Laboratory** in my freshman year. And after that I worked with the lab's team members to complete some projects, particated in some competitions, and achieved some good results. I am mainly repsonible for some code writing work in the team projects and taking on role as **Head of Software Group**. In my laboratory time, I led my team members finshed **four college-level new seedling project**, **one provincial-level new seedling talent project**, **one national-level university student innovation and entrepreneurship project** as the role of team leader of these projects, and published a total of **four computer software copyrights**. 
@@ -199,6 +208,13 @@ content:
   - title: 获奖经历
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: 2016年
+        description: |
+          国家奖学金
+
+          浙江省新苗人才计划
+
       - layout: left
         title: 2016年
         description: |
