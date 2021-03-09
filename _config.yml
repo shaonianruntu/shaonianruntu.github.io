@@ -191,7 +191,7 @@ content:
   - title: 获奖经历
     layout: list # Type of content section (list/text)
     content:
-       - layout: left
+      - layout: left
         title: 2017～2018
         description: |
           校三等奖学金
@@ -200,7 +200,7 @@ content:
 
           校三等奖学金
 
-       - layout: left
+      - layout: left
         title: 2017～2018
         description: |
           校三等奖学金
@@ -208,7 +208,6 @@ content:
           单项创业奖学金
 
           校三等奖学金
-
 
       - layout: left
         title: 2017～2018
