@@ -59,7 +59,7 @@ content:
     content:
       - layout: left
         title: 智能制造AI机器人
-        sub_title: 研究生科研创新基金
+        sub_title: 杭州电子科技大学研究生科研创新基金
         caption: 2020年05月至2021年05月
         quote: >
           本项目主要涉及基于 Pytorch 语言的AI图像风格迁移算法，基于 C++ 语言的图像建模和路径规划算法，基于 C/C++ 语言的 STM32 ARM 芯片控制算法。
@@ -70,7 +70,7 @@ content:
 
       - layout: left
         title: 多终端AI开放实验云平台
-        sub_title: 研究生科研创新基金
+        sub_title: 杭州电子科技大学研究生科研创新基金
         caption: 2020年05月至2021年05月
         quote: >
           本项目主要涉及基于 React 架构的网页前端开发，基于 Taro 架构的微信小程序前端开发，基于 Java 语言的后端开发，基于 MySQL 语言的数据库。
@@ -261,7 +261,7 @@ content:
   - title: 更多
     layout: text
     content: | # this will include new lines to allow paragraphs
-      在对人工智能和软件工程之外的兴趣之外，我还喜欢研究：批判文学和武侠影视。
+      除了对人工智能和软件工程之外的兴趣之外，我还喜欢研究：批判文学和武侠影视。
 
 # Footer
 footer_show_references: false
