@@ -169,15 +169,15 @@ content:
   - title: 工作经历 # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: right
-        title: 杭州荟视科技有限公司
-        link: overvision.cn
-        sub_title: 创始人
-        caption: 2019年06月至今
-        quote: >
-          利用智能软件技术提高人们生活和工作的效率。
-        description: | # this will include new lines to allow paragraphs
-          在创业期间，我先后设计和开发了《流媒体式日记日程管理网站》、《团队私人搜索知识协作管理软件》两款主要的工具。
+      # - layout: right
+      #   title: 杭州荟视科技有限公司
+      #   link: overvision.cn
+      #   sub_title: 创始人
+      #   caption: 2019年06月至今
+      #   quote: >
+      #     利用智能软件技术提高人们生活和工作的效率。
+      #   description: | # this will include new lines to allow paragraphs
+      #     在创业期间，我先后设计和开发了《流媒体式日记日程管理网站》、《团队私人搜索知识协作管理软件》两款主要的工具。
 
   - title: 教育背景 # Title for the section
     layout: list # Type of content section (list/text)
