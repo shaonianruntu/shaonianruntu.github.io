@@ -263,7 +263,7 @@ content:
   - title: 更多关于
     layout: text
     content: | # this will include new lines to allow paragraphs
-      除了对人工智能和软件工程有着浓郁的兴趣之外，我还喜欢研究：哲学、政治文学和武侠影视文学。
+      除了对人工智能和软件工程有着浓郁的兴趣之外，我还喜欢研究：哲学、政治文学和武侠影视作品。
 
 # Footer
 footer_show_references: false
