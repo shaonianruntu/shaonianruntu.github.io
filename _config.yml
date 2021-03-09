@@ -58,11 +58,33 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: 智能制造AI机器人
+        sub_title: 研究生科研创新基金
+        caption: 2020年05月至2021年05月
+        quote: >
+          本项目主要涉及基于 Pytorch 语言的AI图像风格迁移算法，基于 C++ 语言的图像建模和路径规划算法，基于 C/C++ 语言的 STM32 ARM 芯片控制算法。
+        description: |
+          本项目采用AI图像风格迁移算法，对原始的人物肖像、风景等画像进行风格迁移，得到相应的可以进行快速稳定工业化加工的简笔画效果生成图，借助绘画机器人手臂，对生成图进行实际绘制。并借助自行开发的移动端小程序和桌面端网页，对结果进行展示和远程实时操作控制。
+
+          其项目应用场景可以是绘画、激光雕刻、纺织加工等，其核心在于我们自主研发的可以进行快速工业化加工的AI图像风格迁移算法。
+
+      - layout: left
+        title: 多终端AI开放实验云平台
+        sub_title: 研究生科研创新基金
+        caption: 2020年05月至2021年05月
+        quote: >
+          本项目主要涉及基于 React 架构的网页前端开发，基于 Taro 架构的微信小程序前端开发，基于 Java 语言的后端开发，基于 MySQL 语言的数据库。
+        description: |
+          本项目针对现有的学校AI算法实验室中，常用的几种AI人脸解释算法，开发一款后端多算法集成的远程在线实验平台，通过设计便捷的后端API接口，实现对多语言环境下的AI算法程序的简易集成；在前端的设计上分别开发桌面端网页平台和移动端微信小程序平台提供远程用户接口，方便科研实验室对多种AI算法进行远程实验和演示使用，同时也可以方便一些需要进行特定人工感知评分的AI模型（如GANs网络）得以进行方便的分享和线上评分。
+
+          该项目切合当前算法实验室的科研需求，解决了当前算法实验室普遍有算法成果展示需求但是没有算法演示平台开发精力的问题。
+
+      - layout: left
         title: 英语选词填空智能作答机器人
         sub_title: 杭州电子科技大学本科生毕业设计
-        caption: 2018年12月至2019年6月
+        caption: 2018年12月至2019年06月
         quote: >
-          本项目主要涉及基于 JavaScript 和 JAVA 语言的微信小程序前后端开发，基于 MySQL 语言的数据库，基于 Tensorflow 语言的AI自然语言处理算法，基于 Pytorch 语法的AI图像文字识别算法。
+          本项目主要涉及基于 JavaScript 和 JAVA 语言的微信小程序前后端开发，基于 MySQL 语言的数据库，基于 Tensorflow 语言的AI自然语言处理算法，基于 Pytorch 语言的 AI 图像文字识别算法。
         description: |
           本项目主要开发了一款基于语言模型算法和微信小程序开发平台的英语选词填空和单项选择自动智能作答软件。
 
@@ -73,7 +95,7 @@ content:
       - layout: left
         title: 基于用户行为分析的智能家居节能系统
         sub_title: 国家级大学生创新创业项目
-        caption: 2017年5月至2018年12月
+        caption: 2017年05月至2018年12月
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
@@ -97,7 +119,7 @@ content:
       - layout: left
         title: 基于语音识别的智能老人看护系统
         sub_title: 浙江省新苗人才计划
-        caption: 2017年6月至2018年10月
+        caption: 2017年06月至2018年10月
         quote: >
           该项目主要涉及基于 C/C++ 语言的 STM32 ARM 芯片、微芯 PLC18、STC51 芯片和树莓派的控制算法、物联网网关协议，电子集成电路设计，基于 JavaScript 和 JAVA 语言的网站前后端开发，基于 MySQL 语言的数据库，基于 Tensorflow 语言的AI自然语言处理算法。
         description: |
@@ -134,7 +156,7 @@ content:
       - layout: left
         title: 旋转文字显示LED
         sub_title: 杭州电子科技大学芯苗人才计划
-        caption: 2016年6月至2016年7月
+        caption: 2016年06月至2016年07月
         quote: >
           本项目主要涉及基于 C/C++ 语言的 STM32 芯片控制算法，电子集成电路设计。
         description: |
@@ -151,7 +173,7 @@ content:
         title: 杭州荟视科技有限公司
         link: overvision.cn
         sub_title: 创始人
-        caption: 2021年3月至今
+        caption: 2021年03月至今
         quote: >
           利用智能软件技术提高人们生活和工作的效率。
         description: | # this will include new lines to allow paragraphs
@@ -162,7 +184,7 @@ content:
     content:
       - layout: left
         title: 杭州电子科技大学
-        caption: 2019年9月至今
+        caption: 2019年09月至今
         sub_title: 计算机科学与技术硕士学位
         quote: >
           杭州电子科技大学（杭电，HDU）成立于1956年，是一所电子信息特色突出，经管学科优势明显的教学研究型综合性大学。
@@ -177,7 +199,7 @@ content:
 
       - layout: left
         title: 杭州电子科技大学
-        caption: 2015年9月至2019年6月
+        caption: 2015年09月至2019年06月
         sub_title: 计算机科学与技术学士学位
         quote: >
           杭州电子科技大学（杭电，HDU）成立于1956年，是一所电子信息特色突出，经管学科优势明显的教学研究型综合性大学。
@@ -239,19 +261,7 @@ content:
   - title: 更多
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in machine learing and software engineering some of my other interests and hobbies are:
-      - Classical literture & Swordsman fiction
-      - Historical drama & Costume drama
-      - Drive & Travel
-
-      This is my Douban account [shaonianruntu](https://www.douban.com/people/shaonianruntu/). If you have the same interest, maybe we can be a book friend.
-
-      Here is the link to some of my friends' homepages, maybe you will be interested:
-        - [高飞老师](https://fei-hdu.github.io/)
-        - [罗宇矗同学](https://www.luoyuchu.com/)
-        - [叶家豪同学](https://yjhmelody.github.io/)
-        - [曹骁威学弟](https://accepteddoge.com/)
-        - [柳婼学姐](https://www.liuchuo.net/)
+      在对人工智能和软件工程之外的兴趣之外，我还喜欢研究：批判文学和武侠影视。
 
 # Footer
 footer_show_references: false
