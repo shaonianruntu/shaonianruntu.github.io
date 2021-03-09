@@ -25,8 +25,6 @@ linkedin_username: fangnan97
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 # additional_links:
@@ -47,18 +45,16 @@ linkedin_username: fangnan97
 # about_title: About Me
 about_profile_image: images/user.jpg
 about_content: | # this will include new lines to allow paragraphs
-  你好👋，我是方楠。我来自于中国上海。现在是我在杭州电子科技大学攻读我的计算机科学与技术学术型硕士文凭学位的第二年。
+  你好👋，我是方楠。我来自于中国上海。现在是我在杭州电子科技大学攻读我的计算机科学与技术专业学术硕士文凭学位的第二年。我是一个对知识有强烈渴望的人,我喜欢探索新事物并具有很强的团队合作精神。除了在深度学习和计算机视觉的专业技能之外，我还具有嵌入式软件开发、移动端软件开发和网页前端开发的能力。同时，本科和研究生期间在学校实验室和社团工作的经历，使我积累了大量的项目研发经验和团队合作领导经验。
 
-  Hi, my name's Nan Fang 方楠. I am from Shanghai, China. I'm a first-year postgraduate student at the School of Computer Science, Hangzhou Dianzi University. And I am a person who has a strong desire for knowledge. I like to explore new things and have a team spirit. As well as machine learning and computer vision I also have experience making software and web apps. I have worked at a number of labs gaining teamwork and leadership skills.
+  我具有如下专业技能：<mark>C/C++</mark> <mark>Python</mark> <mark>Pytorch</mark> <mark>html/css</mark> <mark>JavaScript</mark> 和 <mark>MySQL</mark>.
 
-  I am skilled in: <mark>Python</mark> <mark>Pytorch</mark> <mark>React</mark> <mark>Laravel</mark> <mark>C++</mark> and <mark>MySQL</mark>.
+  并且，我能够熟练的使用：<mark>VSCode</mark> <mark>Clion</mark> <mark>Keil</mark> <mark>Office</mark> <mark>Ubuntu</mark> <mark>macOS</mark> 和 <mark>Windows</mark>. 
 
-  And I am proficient in using: <mark>VSCode</mark> <mark>XCode</mark> <mark>Office</mark> <mark>macOS</mark> <mark>Ubuntu</mark> and <mark>Windows</mark>. 
-
-  At the same time, I also have language skills of: <mark>CET-6</mark> <mark>CET-4</mark>.
+  同时，我也具有 <mark>CET-6</mark> 和 <mark>CET-4</mark> 的外语英语语言技能。
 
 content:
-  - title: Projects # Title for the section
+  - title: 项目经历 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -148,21 +144,32 @@ content:
 
           同时，我们也提供了该旋转文字显示LED的实现源代码和电子集成电路设计版图：[shaonianruntu/Rotating-LED](https://github.com/shaonianruntu/Rotating-LED) 以及演示视频：[旋转文字显示LED](https://www.bilibili.com/video/BV12s411K7yK)。
 
-  # - title: Experience # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:
-  #     - layout: left
-  #       title: The Boring Company
-  #       link: boringcompany.com
-  #       # link_text: boringcompany.com
-  #       sub_title: Senior Network System Administrator
-  #       caption: November 2017 - Present
-  #       quote: >
-  #         Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-  #       description: | # this will include new lines to allow paragraphs
-  #         Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+  - title: 工作经历 # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 杭州荟视科技有限公司
+        link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Senior Network System Administrator
+        caption: November 2017 - Present
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
-  - title: Education # Title for the section
+      - layout: left
+        title: The Boring Company
+        link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Senior Network System Administrator
+        caption: November 2017 - Present
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+
+  - title: 教育背景 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -170,7 +177,7 @@ content:
         caption: 2019年9月至今
         sub_title: 计算机科学与技术硕士学位
         quote: >
-          杭州电子科技大学（HDU）成立于1956年，是一所电子信息特色突出，经管学科优势明显的教学研究型综合性大学。
+          杭州电子科技大学（杭电，HDU）成立于1956年，是一所电子信息特色突出，经管学科优势明显的教学研究型综合性大学。
         description:
           During my time at HDU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
@@ -190,13 +197,16 @@ content:
           The experience in the laboratory allowed me to be in touch with some research projects and related professional knowledge earlier than other students. It also broadened my horizons and improved my self-learning ability and information gathering ability.
 
       - layout: left
-        title: Zhejiang Yuyao High School
+        title: 浙江省余姚中学
         caption: 2012 - 2015
         quote: >
-          Zhejiang Yuyao High School is a key high school located in Yuyao City, Ningbo City, China.
-
-          Founded in 1935, the school is the first middle school in the history of Yuyao. It was only the junior school when it was first built, and opened in 1943. In 1961, the school became a pilot high school in Zhejiang Province. In 1981, it became a key high school in Zhejiang Province. After 1989, it became a special high school. In 1995, it became a primary key high school in Zhejiang Province.
+          浙江省余姚中学，是一所位于中国宁波市余姚市的重点高中。该校创建于1935年，是余姚历史上第一所中学，初建时仅有初中部，1943年起开设高中。1961年该校成为浙江省试点中学，1981年成为浙江省重点中学。1989年后成为专门高中，1995年成为浙江省一级重点中学
         description: |
+
+  - title: 获奖经历
+    layout: text
+    content:
+      - 2014/07/12: 国家奖学金
 
   - title: A Little More About Me
     layout: text
