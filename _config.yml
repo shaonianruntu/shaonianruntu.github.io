@@ -26,11 +26,13 @@ linkedin_username: fangnan97
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 
-# Additional icon links
-# additional_links:
-#   - title: itsgoingto.be
-#     icon: fas fa-globe
-#     url: https://www.itsgoingto.be
+Additional icon links
+additional_links:
+  - title: 简历
+    icon: <far fa-id-badge
+    url: ./本科实习简历.pdf
+
+
 #   - title: another link
 #     icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #     url: Link url (eg. https://google.com)
