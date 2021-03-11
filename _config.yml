@@ -30,7 +30,7 @@ linkedin_username: fangnan97
 additional_links:
   - title: 简历
     icon: far fa-id-badge
-    url: 本科实习简历.pdf
+    url: /本科实习简历.pdf
 
 #   - title: another link
 #     icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
