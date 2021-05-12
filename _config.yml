@@ -9,31 +9,38 @@ version: 2
 name: 方楠
 title: 计算机科学与技术硕士学位在读
 email: fangnan97@qq.com
-# website: shaonianruntu.gitee.io
+# email_title: Email (Email title override)
+# phone: Your phone number (optional)
+# phone_title: Phone (Phone title override)
+# website: Your website (eg. https://google.com)(optional)
+# website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
+# twitter_username: jekyllrb
 github_username: shaonianruntu
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-# instagram_username: jameswgrant
+# instagram_username: jekyll
 linkedin_username: fangnan97
 # xing_username: jekyll
 # pinterest_username: jekyll
-# youtube_username: globalmtb
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-  - title: 简历
+  - title: Resume link
     icon: far fa-id-badge
-    url: https://shaonianruntu.gitee.io/方楠Resume.pdf
-  # - title: another link
-  #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-  #   url: Link url (eg. https://google.com)
+    url: https://shaonianruntu.gitee.io/resume.pdf
+#   - title: another link
+#     icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#     url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -43,15 +50,17 @@ additional_links:
 
 # About Section
 about_title: 关于我
-about_profile_image: images/user.jpg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   你好👋，我是方楠，24岁，男，汉族，中共党员。我来自于中国上海。现在是我在杭州电子科技大学攻读我的计算机科学与技术专业学术硕士学位的第二年。我是一个对知识有强烈渴望的人，我喜欢探索新事物并具有很强的团队合作精神。除了在深度学习和计算机视觉的专业技能之外，我还具有嵌入式软件开发、移动端软件开发和网页前端开发的能力。同时，本科和研究生期间在学校实验室和社团工作的经历，使我积累了大量的项目研发经验和团队合作领导经验。
 
-  我具有如下专业技能：<mark>C/C++</mark> <mark>Python</mark> <mark>Pytorch</mark> <mark>html/css</mark> 和 <mark>JavaScript</mark>.
+  我具有如下编程技能：<mark>C/C++</mark> <mark>Pytorch</mark> <mark>Python</mark> <mark>网页前端</mark> 和 <mark>嵌入式</mark>。
 
-  并且，我能够熟练的使用：<mark>VSCode</mark> <mark>Clion</mark> <mark>Keil</mark> <mark>Office</mark> <mark>Linux</mark> <mark>macOS</mark> 和 <mark>Windows</mark>. 
+  并且，我能够熟练的使用：<mark>Visual Studio Code</mark> <mark>Visual Studio</mark> <mark>XCode</mark> <mark>Keil</mark>  <mark>Office</mark> <mark>Linux</mark> <mark>macOS</mark> 和 <mark>Windows</mark>。
 
-  同时，我也具有 <mark>CET-6</mark> 和 <mark>CET-4</mark> 的外语英语语言技能。
+  除了在对计算机 <mark>基础算法与数据结构</mark> 的掌握之外，我还对 <mark>机器学习</mark> 和 <mark>深度学习</mark> 有较深的研究，特别是在 <mark>计算机视觉</mark> <mark>图像翻译</mark> <mark>生成对抗网络</mark> <mark>自监督学习</mark> 和 <mark>医学影像</mark>。
+
+  此外，我也具有 <mark>CET-6</mark> 的英语外语语言技能。
 
 content:
   - title: 项目经历
@@ -61,6 +70,12 @@ content:
         title: 智能制造AI机器人
         sub_title: 浙江省教育厅一般科研项目
         caption: 2020年05月至2021年05月
+        # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # link_text: Link Text
+        # additional_links:
+        #   - title: Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
           本项目主要涉及基于 Pytorch 语言的AI图像风格迁移算法，基于 C++ 语言的图像建模和路径规划算法，基于 C/C++ 语言的 STM32 ARM 芯片控制算法。
         description: |
@@ -98,15 +113,6 @@ content:
         title: 基于用户行为分析的智能家居节能系统
         sub_title: 国家级大学生创新创业项目
         caption: 2017年05月至2018年12月
-        # link: github.com/sproogen
-        # link_text: Project Website
-        # additional_links:
-        #   - title: sproogen/modern-resume-theme
-        #     icon: fab fa-github
-        #     url: github.com/sproogen/modern-resume-theme
-        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #   icon: fab fa-github
-        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           本项目主要涉及基于 C/C++ 语言的 STM32 ARM 芯片控制算法、物联网网关协议，电子集成电路设计，基于 Python 语言的树莓派控制算法，结合 MySQL 数据库的用户行为分析 AI 机器学习算法。
         description: |
@@ -175,9 +181,9 @@ content:
     content:
       - layout: right
         title: 杭州荟视科技有限公司
-        link: overvision.cn
         sub_title: 创始人
         caption: 2019年06月至2020年06月
+        link: overvision.cn
         quote: >
           用智慧软件提升生产力效率。
         description: | # this will include new lines to allow paragraphs
@@ -185,13 +191,15 @@ content:
 
           秉承着用智慧软件来实现生产力工具效率提升的初心，在创业期间，我先后设计和开发了《流媒体式日记日程管理网站》、《团队私人搜索知识协作管理软件》两款主要的工具。
 
+        # ![alt text](/images/landscape-trees.jpg "Trees")
+
   - title: 教育背景
     layout: list
     content:
       - layout: left
         title: 杭州电子科技大学
-        caption: 2019年09月至今
         sub_title: 计算机科学与技术硕士学位
+        caption: 2019年09月至今
         quote: >
           杭州电子科技大学（杭电，HDU）成立于1956年，是一所电子信息特色突出，经管学科优势明显的教学研究型综合性大学。
         description: |
@@ -205,8 +213,8 @@ content:
 
       - layout: left
         title: 杭州电子科技大学
-        caption: 2015年09月至2019年06月
         sub_title: 计算机科学与技术学士学位
+        caption: 2015年09月至2019年06月
         quote: >
           杭州电子科技大学（杭电，HDU）成立于1956年，是一所电子信息特色突出，经管学科优势明显的教学研究型综合性大学。
         description: |
@@ -214,19 +222,55 @@ content:
 
           在实验室的大一至大三的三年科研学习期间，我带领实验室成员共同完成了《旋转文字显示LED》、《防雾霾空气调节智能盒子》、《基于STM32的智能儿童看护手表》、《基于语音识别的智能老人看护系统》、《基于用户行为分析的智能家居节能系统》等多个项目，合计申请并完成了**4项校级新苗人才项目、1项省级新苗项目、1项国家级大学生创新创业项目**，并以第一作者身份连续发表了**4项软件著作权**：《基于用户行为分析的智能家居节能系统》、《电器识别可视化系统》、《基于语音识别的智能老人看护系统》、《基于无线自组网协议的家电控制系统》。
 
-          同时，我还担任了电子信息学院《PLC单片机程序设计》课程的**主讲和助教**。
+          同时，我还担任了电子信息学院《PLC单片机程序设计》课程的**助教**。
 
           此外，我还加入了杭州电子科技大学红色家园社团担任设计部成员，杭州电子科技大学创业联盟担任宣传部副部长。在2017年，杭州电子科技大学六十周年校庆之际，担任了校庆活动志愿者。并在同年暑假，带领同学前往浙江省舟山市普陀中学进行暑期社会实践，对该校高三学生进行高考择校义务宣讲。
 
           大学的实验室工作经历和社团、公益经历，使我比其他同学更早更多的接触到了学科专业技能、工程管理技能、团队协作技能和公益实践技能，既拓宽了我的视野，也提高了我的自学能力、信息收集能力和组织领导能力。
 
-  - title: 获奖经历
+  - title: 科研经历
     layout: list
     content:
       - layout: right
+        title: 智能可视化建模与仿真实验室
+        sub_title: 杭州电子科技大学计算机学院
+        caption: 2021年01月至2022年06月
+        link: http://igame.hdu.edu.cn
+        link_text: igame.hdu.edu.cn
+        description: |
+          硕士研究员
+      - layout: right
+        title: 媒体智能实验室
+        sub_title: 杭州电子科技大学计算机学院
+        caption: 2019年09月至2020年12月
+        link: http://mil.hdu.edu.cn
+        link_text: mil.hdu.edu.cn
+        description: |
+          硕士研究员
+      - layout: right
+        title: 复杂系统建模与仿真教育部重点实验室
+        sub_title: 杭州电子科技大学计算机学院
+        caption: 2019年09月至2020年12月
+        link: http://mil.hdu.edu.cn
+        link_text: mil.hdu.edu.cn
+        description: |
+          硕士研究员
+      - layout: right
+        title: 微芯-杭电大学生科技创新孵化器实验室
+        sub_title: 杭州电子科技大学电子信息学院
+        caption: 2016年06月至2019年06月
+        link: http://microchip.didimama.com/index.php?m=Plan&a=show&id=73
+        link_text: microchip.didimama.com
+        description: |
+          本科研究员、软件组组长
+
+  - title: 获奖经历
+    layout: list
+    content:
+      - layout: left
         title: 杭州电子科技大学
-        caption: 2019年09月至今
         sub_title: 计算机科学与技术硕士学位
+        caption: 2019年09月至今
         description: |
           《杭州电子科技大学研究生奖学金》一等奖<br>
           《杭州电子科技大学研究生奖学金》二等奖<br>
@@ -240,10 +284,10 @@ content:
           《浙江省教育厅一般科研项目》<br>
           《杭州电子科技大学研究生科研创新基金》 * 2<br>
 
-      - layout: right
+      - layout: left
         title: 杭州电子科技大学
-        caption: 2015年09月至2019年06月
         sub_title: 计算机科学与技术学士学位
+        caption: 2015年09月至2019年06月
         description: |
           《杭州电子科技大学优秀团干部》<br>
           《杭州电子科技大学奖学金》一等奖<br>
@@ -253,10 +297,12 @@ content:
           《浙江省新苗人才计划项目》<br>
           《杭州电子科技大学电子信息学院芯苗人才计划项目》 * 2
 
-  - title: 更多关于
+  - title: 我的更多
     layout: text
     content: | # this will include new lines to allow paragraphs
       除了对人工智能和软件工程有着浓郁的兴趣之外，我还喜欢研究：哲学、政治文学和武侠影视作品。崇尚社会主义、儒家文学和阳明心学。
+
+      我的社交账户有：[知乎](https://www.zhihu.com/people/DarkBluecenter)、[豆瓣](https://www.douban.com/people/shaonianruntu/)。
 
 # Footer
 footer_show_references: false
