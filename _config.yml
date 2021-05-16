@@ -176,22 +176,22 @@ content:
 
           如下是该旋转文字显示LED的演示展示视频：[旋转文字显示LED](https://www.bilibili.com/video/BV12s411K7yK)。
 
-  - title: 工作经历
-    layout: list
-    content:
-      - layout: right
-        title: 杭州荟视科技有限公司
-        sub_title: 创始人
-        caption: 2019年06月至2020年06月
-        link: overvision.cn
-        quote: >
-          用智慧软件提升生产力效率。
-        description: | # this will include new lines to allow paragraphs
-          在道法术的自然法则中，技术是透视社会的最根本和最基础因素，通过智慧软件提升技术生产力工具的运作效率，可以推进社会更快的向公平公正和和谐稳定的方向发展。
+  # - title: 工作经历
+  #   layout: list
+  #   content:
+  #     - layout: right
+  #       title: 杭州荟视科技有限公司
+  #       sub_title: 创始人
+  #       caption: 2019年06月至2020年06月
+  #       link: overvision.cn
+  #       quote: >
+  #         用智慧软件提升生产力效率。
+  #       description: | # this will include new lines to allow paragraphs
+  #         在道法术的自然法则中，技术是透视社会的最根本和最基础因素，通过智慧软件提升技术生产力工具的运作效率，可以推进社会更快的向公平公正和和谐稳定的方向发展。
 
-          秉承着用智慧软件来实现生产力工具效率提升的初心，在创业期间，我先后设计和开发了《流媒体式日记日程管理网站》、《团队私人搜索知识协作管理软件》两款主要的工具。
+  #         秉承着用智慧软件来实现生产力工具效率提升的初心，在创业期间，我先后设计和开发了《流媒体式日记日程管理网站》、《团队私人搜索知识协作管理软件》两款主要的工具。
 
-        # ![alt text](/images/landscape-trees.jpg "Trees")
+  #       # ![alt text](/images/landscape-trees.jpg "Trees")
 
   - title: 教育背景
     layout: list
