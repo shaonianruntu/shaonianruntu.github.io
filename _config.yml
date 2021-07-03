@@ -178,22 +178,29 @@ content:
 
           如下是该旋转文字显示LED的演示展示视频：[旋转文字显示LED](https://www.bilibili.com/video/BV12s411K7yK)。
 
-  # - title: 工作经历
-  #   layout: list
-  #   content:
-  #     - layout: right
-  #       title: 杭州荟视科技有限公司
-  #       sub_title: 创始人
-  #       caption: 2019年06月至2020年06月
-  #       link: overvision.cn
-  #       quote: >
-  #         用智慧软件提升生产力效率。
-  #       description: | # this will include new lines to allow paragraphs
-  #         在道法术的自然法则中，技术是透视社会的最根本和最基础因素，通过智慧软件提升技术生产力工具的运作效率，可以推进社会更快的向公平公正和和谐稳定的方向发展。
+  - title: 工作经历
+    layout: list
+    content:
+      - layout: right
+        title: 上海新思(Synopsys)科技有限公司
+        sub_title: Technical Intern
+        caption: 2021年07月至2021年10月
+        link: www.synopsys.com
+        quote: >
+          新思科技成立于1986年，总部位于美国硅谷，目前拥有14,800多名员工，分布在全球132个分支机构。它是全球排名第一的电子设计自动化(EDA) 解决方案提供商，全球排名第一的芯片接口IP供应商，同时也是信息安全和软件质量的全球领导者。
+        description: | # this will include new lines to allow paragraphs
+          我的主要工作内容是在 Shanghai IG R&D Group OPT Team 从事优化算法方面的工作。
+      # - layout: right
+      #   title: 杭州荟视科技有限公司
+      #   sub_title: 创始人
+      #   caption: 2019年06月至2020年06月
+      #   link: overvision.cn
+      #   quote: >
+      #     用智慧软件提升生产力效率。
+      #   description: | # this will include new lines to allow paragraphs
+      #     在道法术的自然法则中，技术是透视社会的最根本和最基础因素，通过智慧软件提升技术生产力工具的运作效率，可以推进社会更快的向公平公正和和谐稳定的方向发展。
 
-  #         秉承着用智慧软件来实现生产力工具效率提升的初心，在创业期间，我先后设计和开发了《流媒体式日记日程管理网站》、《团队私人搜索知识协作管理软件》两款主要的工具。
-
-  #       # ![alt text](/images/landscape-trees.jpg "Trees")
+      #     秉承着用智慧软件来实现生产力工具效率提升的初心，在创业期间，我先后设计和开发了《流媒体式日记日程管理网站》、《团队私人搜索知识协作管理软件》两款主要的工具。
 
   - title: 教育背景
     layout: list
