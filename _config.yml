@@ -185,7 +185,7 @@ content:
         sub_title:
         caption: 2017年12月至2018年02月
         quote: >
-          等待完善
+          等待网页内容完善
         description: |
 
       - layout: left
@@ -193,7 +193,7 @@ content:
         sub_title:
         caption: 2017年10月至2018年02月
         quote: >
-          等待完善
+          等待网页内容完善
         description: |
           https://github.com/shaonianruntu/OS-lab
 
@@ -202,7 +202,7 @@ content:
         sub_title:
         caption: 2017年07月至2017年11月
         quote: >
-          等待完善
+          等待网页内容完善
         description: |
           主要完成了自动驾驶汽车的车道线检测、红路灯识别、行人识别、车辆识别、图像分割、强化学习自训练。
 
@@ -273,7 +273,7 @@ content:
 
           如下是该旋转文字显示LED的演示展示视频：[旋转文字显示LED](https://www.bilibili.com/video/BV12s411K7yK)。
 
-  - title: 科研经历
+  - title: 科研背景
     layout: list
     content:
       - layout: left
@@ -324,6 +324,16 @@ content:
           指导老师：[张珣教授](http://zhanqun.hdu.edu.cn/_s51/2017/1204/c1827a57563/page.psp)、[张钰教授](http://elec.hdu.edu.cn/2017/1205/c1827a57682/page.htm)
 
           主管老师：[张珣教授](http://zhanqun.hdu.edu.cn/_s51/2017/1204/c1827a57563/page.psp)、[张钰教授](http://elec.hdu.edu.cn/2017/1205/c1827a57682/page.htm)
+
+  - title: 科研经历
+    layout: list
+    content:
+      - layout: left
+        title:
+        sub_title:
+        caption:
+        description: |
+          等待网页内容完善，或者可以下载网页右上角的履历文档。
 
   - title: 获奖经历
     layout: list
