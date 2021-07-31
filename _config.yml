@@ -60,7 +60,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   除了在对计算机 <mark>基础算法与数据结构</mark> 的掌握之外，我还对 <mark>机器学习</mark> 和 <mark>深度学习</mark> 有较深的研究，特别是在 <mark>计算机视觉</mark> <mark>图像翻译</mark> <mark>生成对抗网络</mark> <mark>自监督学习</mark> 和 <mark>医学影像</mark>。
 
-  此外，我也具有 <mark>CET-6</mark> 的英语外语语言技能。
+  此外，我也具有 <mark>CET-6</mark> 的英语外语语言技能，可以流利的进行英文书写和英文会议。
 
   欢迎点击右上角下载我的履历或与我邮件沟通。
 
@@ -179,6 +179,32 @@ content:
           在微信小程序软件开发过程中，我们采用了“微信小程序客户端+微信小程序云平台+云服务器”的自主软件设计架构，在微信小程序客户端实现基本的软件交互逻辑；在微信小程序云开发平台上实现云函数调用、云数据库管理和云存储功能；在云服务器中实现对英语选词填空句子和单项选择题目的基于 N-Gram 语言模型的句子组合方式 AI 评估，得到最优解答序列，并返回给微信小程序进行显示。
 
           通过使用我们自行设计的“微信小程序客户端+微信小程序云平台+云服务器”的三级软件设计架构，可以突破微信小程序客户端在对于软件规模、软件功能上的限制，简化我们微信小程序的前端架构，提高我们后端在设计上的自由度和软件后续版本更新的便捷度和可扩展性。便于我们软件的维护、升级和二次重构。
+
+      - layout: left
+        title: 基于LSTM的股价预测模型
+        sub_title:
+        caption: 2017年12月至2018年02月
+        quote: >
+          等待完善
+        description: |
+
+      - layout: left
+        title: Linux内核开发
+        sub_title: 杭州电子科技大学本科生毕业设计
+        caption: 2017年10月至2018年02月
+        quote: >
+          等待完善
+        description: |
+          https://github.com/shaonianruntu/OS-lab
+
+      - layout: left
+        title: 自动驾驶汽车
+        sub_title:
+        caption: 2017年07月至2017年11月
+        quote: >
+          等待完善
+        description: |
+          主要完成了自动驾驶汽车的车道线检测、红路灯识别、行人识别、车辆识别、图像分割、强化学习自训练。
 
       - layout: left
         title: 基于用户行为分析的智能家居节能系统
