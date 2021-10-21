@@ -64,6 +64,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   欢迎点击右上角下载我的履历或与我邮件沟通。
 
+  很久没有更新了，欢迎[LinkedIn](https://www.linkedin.com/in/fangnan97/)交流。
+
 content:
   - title: 工作经历
     layout: list
@@ -371,8 +373,6 @@ content:
   - title: 我的更多
     layout: text
     content: | # this will include new lines to allow paragraphs
-      除了对人工智能和软件工程有着浓郁的兴趣之外，我还喜欢研究：哲学、政治文学和武侠影视作品。崇尚社会主义、儒家文学和阳明心学。
-
       我的社交账户有：[知乎](https://www.zhihu.com/people/DarkBluecenter)、[豆瓣](https://www.douban.com/people/shaonianruntu/)。
 
 # Footer
