@@ -207,7 +207,11 @@ content:
         quote: >
           等待网页内容完善
         description: |
-          https://github.com/shaonianruntu/OS-lab
+          该项目主要涉及: Linux内核编译及添加系统调用；Linux内核模块编程; Linux进程管理；Linux终端应用设计；Linux同步机制设计；Linux简单文件系统的实现。
+
+          对该项目设计的代码，我进行了开源，如下是代码地址：[shaonianruntu/OS-lab](https://github.com/shaonianruntu/OS-lab)
+
+          如下是我书写的项目对应的解析文档和我对于计算机操作系统的理解笔记：[知乎专栏/操作系统笔记](https://www.zhihu.com/column/c_142990858)
 
       - layout: left
         title: 自动驾驶汽车
