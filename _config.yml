@@ -80,7 +80,7 @@ content:
 
           Cadence的客户是世界上最具创新性的公司，为最具活力的市场应用（包括消费电子、超大规模计算、5G通信、汽车、航空航天、工业和健康）提供从芯片到电路板再到系统的非凡电子产品。
         description: | # this will include new lines to allow paragraphs
-          我的主要工作内容是在 Global Routing Team, Digital Design and Signoff Group（Cadence上海数字后端部门布局布线组）从事集成电路内部晶体管的逻辑布局和布线算法研发的工作, responsible for [Innvous™](https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/soc-implementation-and-floorplanning/innovus-implementation-system.html).
+          我的主要工作内容是在 Global Routing Team, Digital Design and Signoff Group（Cadence上海数字后端部门布局布线组）从事集成电路内部晶体管的逻辑布局和布线算法研发的工作, 主要负责 [Innvous™](https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/soc-implementation-and-floorplanning/innovus-implementation-system.html)。
 
       - layout: left
         title: 上海新思科技有限公司(Synopsys, Inc)
@@ -92,7 +92,7 @@ content:
 
           同时，新思也是全球排名第一的芯片接口IP供应商，信息安全和软件质量的全球领导者。
         description: | # this will include new lines to allow paragraphs
-          我的主要工作内容是在 Route Opt Team, Digital Design Group（Synopsys上海数字后端部门优化组，现已更名为Silicon Reality Group，硅片物理实现组）从事集成电路内部晶体管的逻辑布局和布线优化算法研发的工作, responsible for [IC Compiler™ II](https://www.synopsys.com/implementation-and-signoff/physical-implementation/ic-compiler.html) & [Fusion Compiler™](https://www.synopsys.com/implementation-and-signoff/physical-implementation/fusion-compiler.html).
+          我的主要工作内容是在 Route Opt Team, Digital Design Group（Synopsys上海数字后端部门优化组，现已更名为Silicon Reality Group，硅片物理实现组）从事集成电路内部晶体管的逻辑布局和布线优化算法研发的工作, 主要负责 [IC Compiler™ II](https://www.synopsys.com/implementation-and-signoff/physical-implementation/ic-compiler.html) & [Fusion Compiler™](https://www.synopsys.com/implementation-and-signoff/physical-implementation/fusion-compiler.html)。
       # - layout: left
       #   title: 杭州荟视科技有限公司
       #   sub_title: 创始人
