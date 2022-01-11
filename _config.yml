@@ -76,9 +76,9 @@ content:
         caption: 2022年07月
         link: www.cadence.com
         quote: >
-          Cadence is a pivotal leader in electronic design, building upon more than 30 years of computational software expertise. The company applies its underlying Intelligent System Design strategy to deliver software, hardware and IP that turn design concepts into reality.
+          Cadence成立于1988年，总部位于美国硅谷，是电子设计领域的关键领导者，拥有30多年的计算软件专业知识。该公司应用其基础智能系统设计战略来提供将设计概念变为现实的软件、硬件和IP。
           <br>
-          Cadence customers are the world’s most innovative companies, delivering extraordinary electronic products from chips to boards to systems for the most dynamic market applications including consumer, hyperscale computing, 5G communications, automotive, aerospace, industrial and health.
+          Cadence的客户是世界上最具创新性的公司，为最具活力的市场应用（包括消费电子、超大规模计算、5G通信、汽车、航空航天、工业和健康）提供从芯片到电路板再到系统的非凡电子产品。
         description: | # this will include new lines to allow paragraphs
           我的主要工作内容是在 Global Routing Team, Digital Design and Signoff Group（Cadence上海数字后端部门布局布线组）从事集成电路内部晶体管的逻辑布局和布线算法研发的工作, responsible for [Innvous™](https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/soc-implementation-and-floorplanning/innovus-implementation-system.html).
 
@@ -88,9 +88,7 @@ content:
         caption: 2021年07月至2021年10月
         link: www.synopsys.com
         quote: >
-          新思科技成立于1986年，总部位于美国硅谷，目前拥有15,000多名员工，分布在全球132个分支机构。
-          <br>
-          它是全球排名第一的电子设计自动化(EDA)解决方案提供商，而所有的集成电路相关产业公司都必须依托EDA软件进行设计、生成和制造。
+          新思科技成立于1986年，总部位于美国硅谷，它是全球排名第一的电子设计自动化(EDA)解决方案提供商，而所有的集成电路相关产业公司都必须依托EDA软件进行设计、生成和制造。
           <br>
           同时，新思也是全球排名第一的芯片接口IP供应商，信息安全和软件质量的全球领导者。
         description: | # this will include new lines to allow paragraphs
