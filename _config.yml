@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale: "en-US"
+locale: "zh-CN" # "en-US"
 title: "方楠的主页"
 title_separator: "-"
-name: &name "Your Name"
+name: &name "方楠 Nan Fang"
 description: &description "personal description"
 url: https://shaonianruntu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 author:
   name: "方楠 Nan Fang"
   avatar: "profile2.JPG"
-  bio:
+  bio: "软件、硬件、智能、芯片"
   location: "Shanghai, China"
   employer:
   pubmed:
@@ -92,6 +92,7 @@ author:
   codepen:
   dribbble:
   flickr:
+  wechat: "fangnan97"
   facebook:
   foursquare:
   github: "shaonianruntu"
@@ -191,9 +192,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
+      read_time: false
+      comments: false
+      share: false
       related: true
   # _pages
   - scope:

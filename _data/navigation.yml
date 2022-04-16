@@ -1,22 +1,37 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "工作经历"
+    url: /works/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "教育经历"
+    url: /educations/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "学术成果"
+    url: /educations/
+
+  - title: "项目竞赛"
+    url: /projects/
+
+  - title: "作品集锦"
+    url: /collections/
+
+  # - title: "Publications"
+  #   url: /publications/
+
+  # - title: "Talks"
+  #   url: /talks/
+
+  # - title: "Teaching"
+  #   url: /teaching/
+
+  # - title: "Portfolio"
+  #   url: /portfolio/
+
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
+  # - title: "CV"
+  #   url: /cv/
+
+  # - title: "Guide"
+  #   url: /markdown/

@@ -3,22 +3,87 @@
 <div class="page__footer-follow">
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    {% endif %} {% if site.twitter.username %}
+    <li>
+      <a href="https://twitter.com/{{ site.twitter.username }}"
+        ><i class="fab fa-twitter-square" aria-hidden="true"></i> Twitter</a
+      >
+    </li>
+    {% endif %} {% if site.facebook.username %}
+    <li>
+      <a href="https://facebook.com/{{ site.facebook.username }}"
+        ><i class="fab fa-facebook-square" aria-hidden="true"></i> Facebook</a
+      >
+    </li>
+    {% endif %} {% if site.author.github %}
+    <li>
+      <a href="http://github.com/{{ site.author.github }}"
+        ><i class="fab fa-github" aria-hidden="true"></i> GitHub</a
+      >
+    </li>
     {% endif %}
-    {% if site.twitter.username %}
-      <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fab fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
-    {% endif %}
-    {% if site.facebook.username %}
-      <li><a href="https://facebook.com/{{ site.facebook.username }}"><i class="fab fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
-    {% endif %}
-    {% if site.author.github %}
-      <li><a href="http://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
-    {% endif %}
+    <li>
+      <a href="https://www.douban.com/people/shaonianruntu">
+        <svg
+          t="1650113335182"
+          class="icon"
+          aria-hidden="true"
+          viewBox="0 0 1024 1024"
+          version="1.1"
+          xmlns="http://www.w3.org/2000/svg"
+          p-id="5395"
+          width="200"
+          height="200"
+        >
+          <path
+            d="M576.8 807.52h57.28l20.8 72.48 100.8-72.48h141.92V229.28H576.8z m67.84-513.92H832v448h-66.24l-85.12 64.96-18.56-64.96h-17.44zM126.4 884.48a149.44 149.44 0 0 0 123.84-10.4c60.96-36 105.92-194.56 105.92-194.56l144 177.44s13.12-84.48-2.24-108.32-99.04-119.84-99.04-119.84l-36.64 32 26.08-104.96H544s0-61.76-30.56-65.28-125.44 0-125.44 0v-192H528s-1.6-64-28.8-64H270.56l35.52-104.64s-57.6 3.36-77.92 39.36-86.4 221.6-86.4 221.6 21.92 10.24 59.2-17.28a147.68 147.68 0 0 0 49.28-75.52l67.84-3.36L320 491.2s-116.96-1.76-140.64 0-37.28 65.28-37.28 65.28H320s-15.2 108.16-60.96 187.2-132.64 140.8-132.64 140.8z"
+            fill="#49C0FB"
+            p-id="5396"
+          ></path>
+        </svg>
+        知乎</a
+      >
+    </li>
+    <li>
+      <a href="https://www.douban.com/people/shaonianruntu"
+        ><svg
+          t="1650113733452"
+          class="icon"
+          viewBox="0 0 1024 1024"
+          version="1.1"
+          xmlns="http://www.w3.org/2000/svg"
+          p-id="5740"
+          width="200"
+          height="200"
+        >
+          <path
+            d="M687.8 607.5H339.7c37.4 62.9 71.5 130.3 102.1 202.1h142.1c43.6-68.2 78.2-135.6 103.9-202.1z m41.7-76.7V381.5H302v149.4h427.5z m173.1 356H121.4v-77.1h233.7c-28.6-62.9-58.9-117.3-90.7-163.1l60.1-39H219.2V303h593.6v304.5H702.3l60.1 39.9c-28.4 62.9-57.9 117-88.6 162.2h228.8v77.2z m-17.1-673.3H143.7v-76.2h741.8v76.2z"
+            fill="#58CB6A"
+            p-id="5741"
+          ></path>
+        </svg>
+        豆瓣</a
+      >
+    </li>
     {% if site.author.bitbucket %}
-      <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
+    <li>
+      <a href="http://bitbucket.org/{{ site.author.bitbucket }}"
+        ><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a
+      >
+    </li>
     {% endif %}
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    <li>
+      <a
+        href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"
+        ><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{
+        site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a
+      >
+    </li>
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">
+  &copy; 2015-{{ site.time | date: '%Y' }} {{ site.name | default: site.title
+  }}.
+</div>
