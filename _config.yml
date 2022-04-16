@@ -1,406 +1,300 @@
-# Site
-repository: shaonianruntu/shaonianruntu.github.io
-favicon: images/favicon.ico
-
-# Content configuration version
-version: 2
-
-# Personal info
-name: 方楠
-title: 计算机科学与技术硕士学位在读
-email: fangnan97@qq.com
-# email_title: Email (Email title override)
-# phone: Your phone number (optional)
-# phone_title: Phone (Phone title override)
-# website: Your website (eg. https://google.com)(optional)
-# website_title: Web (Website title override)
-
-# Dark Mode (true/false/never)
-darkmode: false
-
-# Social links
-# twitter_username: jekyllrb
-github_username: shaonianruntu
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jekyll
-linkedin_username: fangnan97
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: jekyll
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-additional_links:
-  - title: Resume link
-    icon: far fa-id-badge
-    url: https://shaonianruntu.github.io/assets/cv.pdf
-#   - title: another link
-#     icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#     url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
-# About Section
-about_title: 关于我
-about_profile_image: images/profile2.JPG
-about_content: | # this will include new lines to allow paragraphs
-  你好👋，我是方楠，24岁，男。我来自于中国上海。现在是我在杭州电子科技大学攻读我的计算机科学与技术专业学术硕士学位的第三年。我是一个对知识有强烈渴望的人，我喜欢探索新事物并具有很强的团队合作精神。除了在深度学习和计算机视觉的专业技能之外，我还具有嵌入式软件开发、移动端软件开发和网页前端开发的能力。同时，本科和研究生期间在学校实验室和社团工作的经历，使我积累了大量的项目研发经验和团队合作领导经验。
-
-  我具有如下编程技能：<mark>C/C++</mark> <mark>Pytorch</mark> <mark>Python</mark> <mark>网页前端</mark> 和 <mark>嵌入式</mark>。
-
-  并且，我能够熟练的使用：<mark>Visual Studio Code</mark> <mark>Visual Studio</mark> <mark>XCode</mark> <mark>Keil</mark>  <mark>Office</mark> <mark>Linux</mark> <mark>macOS</mark> 和 <mark>Windows</mark>。
-
-  除了在对计算机 <mark>基础算法与数据结构</mark> 的掌握之外，我还对 <mark>机器学习</mark> 和 <mark>深度学习</mark> 有较深的研究，特别是在 <mark>计算机视觉</mark> <mark>图像翻译</mark> <mark>生成对抗网络</mark> <mark>自监督学习</mark> 和 <mark>医学影像</mark>。
-
-  此外，我也具有 <mark>CET-6</mark> 的英语外语语言技能，可以流利的进行英文书写和英文会议。
-
-  欢迎下载我的[简历](https://shaonianruntu.github.io/assets/cv.pdf)或者下载我的[履历](https://shaonianruntu.github.io/assets/resume.pdf)或与我邮件沟通。
-
-  很久没有更新了，欢迎[LinkedIn](https://www.linkedin.com/in/fangnan97/)交流。
-
-content:
-  - title: 工作经历
-    layout: list
-    content:
-      - layout: left
-        title: 上海楷登电子科技有限公司(Cadence, Inc)
-        sub_title: R&D Engineer
-        caption: 2022年07月
-        link: www.cadence.com
-        quote: >
-          Cadence成立于1988年，总部位于美国硅谷，是电子设计领域的关键领导者，公司应用其基础智能系统设计战略来提供将设计概念变为现实的软件、硬件和IP。
-
-          Cadence的客户是世界上最具创新性的公司，为最具活力的市场应用（包括消费电子、超大规模计算、5G通信、汽车、航空航天、工业和健康）提供从芯片到电路板再到系统的非凡电子产品。
-        description: | # this will include new lines to allow paragraphs
-          我的主要工作内容是在 Global Routing Team, Digital Design and Signoff Group（Cadence上海数字后端部门布局布线组）从事集成电路内部晶体管的逻辑布局和布线算法研发的工作, 主要负责 [Innvous™](https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/soc-implementation-and-floorplanning/innovus-implementation-system.html)。
-
-      - layout: left
-        title: 上海新思科技有限公司(Synopsys, Inc)
-        sub_title: R&D Summer Intern
-        caption: 2021年07月至2021年10月
-        link: www.synopsys.com
-        quote: >
-          新思科技成立于1986年，总部位于美国硅谷，它是全球排名第一的电子设计自动化(EDA)解决方案提供商，而所有的集成电路相关产业公司都必须依托EDA软件进行设计、生成和制造。
-
-          同时，新思也是全球排名第一的芯片接口IP供应商，信息安全和软件质量的全球领导者。
-        description: | # this will include new lines to allow paragraphs
-          我的主要工作内容是在 Route Opt Team, Digital Design Group（Synopsys上海数字后端部门优化组，现已更名为Silicon Reality Group，硅片物理实现组）从事集成电路内部晶体管的逻辑布局和布线优化算法研发的工作, 主要负责 [IC Compiler™ II](https://www.synopsys.com/implementation-and-signoff/physical-implementation/ic-compiler.html) & [Fusion Compiler™](https://www.synopsys.com/implementation-and-signoff/physical-implementation/fusion-compiler.html)。
-      # - layout: left
-      #   title: 杭州荟视科技有限公司
-      #   sub_title: 创始人
-      #   caption: 2019年06月至2020年06月
-      #   link: overvision.cn
-      #   quote: >
-      #     用智慧软件提升生产力效率。
-      #   description: | # this will include new lines to allow paragraphs
-      #     在道法术的自然法则中，技术是透视社会的最根本和最基础因素，通过智慧软件提升技术生产力工具的运作效率，可以推进社会更快的向公平公正和和谐稳定的方向发展。
-
-      #     秉承着用智慧软件来实现生产力工具效率提升的初心，在创业期间，我先后设计和开发了《流媒体式日记日程管理网站》、《团队私人搜索知识协作管理软件》两款主要的工具。
-
-  - title: 教育背景
-    layout: list
-    content:
-      - layout: left
-        title: 杭州电子科技大学
-        sub_title: 计算机科学与技术硕士学位
-        caption: 2019年09月至今
-        quote: >
-          杭州电子科技大学（杭电，HDU）成立于1956年，是一所电子信息特色突出，经管学科优势明显的教学研究型综合性大学。
-        description: |
-          研一阶段，我加入了[杭州电子科技大学媒体智能实验室](http://mil.hdu.edu.cn/)，跟随[高飞副教授](http://computer.hdu.edu.cn/11269.html)从事**深度学习**和**计算机视觉**方向的研究。我的研究方向主要为**图像艺术风格迁移**和**半监督学习**。
-
-          同时，作为实验室成员，我积极的利用自己和团队的学术所长，在**网页设计**、**软件开发**和**深度学习**上的技能，带领团队先后参与和完成了《“挑战杯·创青春”大学生创业大赛》、《全国微信小程序应用开发大赛》、《全国“互联网+”大学生创新创业大赛》、《高通人工智能应用创新大赛》、《国家自然科学基金面上项目》、《国家级大学生创新创业训练计划项目》、《杭州钱江新区大学生创新创业大赛》、《杭州电子科技大学研究生科研创新基金》、《浙江省教育厅一般科研项目》、《“华为杯”中国研究生人工智能创新大赛》、《虎牙小程序技术挑战赛》等共计**15项科研竞赛**、**4项科研基金**，并获得了多个荣誉奖项。
-
-          同时还以第一作者身份发表了**一篇国家发明专利**《一种基于自监督学习的非配对人脸图像翻译方法》。
-
-          在研二阶段，我随导师前往[智能可视化建模与仿真实验室](http://igame.hdu.edu.cn)进行学习，继续从事**深度学习**、**计算机视觉**和**图像翻译**相关的研究工作，并且从事**C++**相关的软件开发工作。
-
-          在硕士阶段我主要学习的课程有：**应用数学、计算理论、高级计算机图形学、数字图像处理、数字几何仿真、大数据可视化与可视分析、自然语言处理、高级计算机网络、信息安全**。
-
-      - layout: left
-        title: 杭州电子科技大学
-        sub_title: 计算机科学与技术学士学位
-        caption: 2015年09月至2019年06月
-        quote: >
-          杭州电子科技大学（杭电，HDU）成立于1956年，是一所电子信息特色突出，经管学科优势明显的教学研究型综合性大学。
-        description: |
-          大一的时候，我加入了[微芯-杭电大学生科技创新孵化器实验室](http://microchip.didimama.com/index.php?m=Plan&a=show&id=73)，并担任**软件组负责人**，跟随[张珣教授](http://zhanqun.hdu.edu.cn/_s51/2017/1204/c1827a57563/page.psp)带领实验室团队围绕**智能家居**、**嵌入式智能设备**和**工业软件**方向进行研究，掌握了**C++嵌入式软件开发**、**嵌入式操作系统软件开发**、**数据库软件开发**、**电子集成电路设计**等技能。
-
-          在实验室的大一至大三的三年科研学习期间，我带领实验室成员共同完成了《旋转文字显示LED》、《防雾霾空气调节智能盒子》、《基于STM32的智能儿童看护手表》、《基于语音识别的智能老人看护系统》、《基于用户行为分析的智能家居节能系统》等多个项目，合计申请并完成了**4项校级新苗人才项目、1项省级新苗项目、1项国家级大学生创新创业项目**，并以第一作者身份连续发表了**4项软件著作权**：《基于用户行为分析的智能家居节能系统》、《电器识别可视化系统》、《基于语音识别的智能老人看护系统》、《基于无线自组网协议的家电控制系统》。
-
-          同时，我还担任了电子信息学院《PLC单片机程序设计》课程的**助教**。
-
-          此外，我还加入了杭州电子科技大学红色家园社团担任设计部成员，杭州电子科技大学创业联盟担任宣传部副部长。在2017年，杭州电子科技大学六十周年校庆之际，担任了校庆活动志愿者。并在同年暑假，带领同学前往浙江省舟山市普陀中学进行暑期社会实践，对该校高三学生进行高考择校义务宣讲。
-
-          大学的实验室工作经历和社团、公益经历，使我比其他同学更早更多的接触到了学科专业技能、工程管理技能、团队协作技能和公益实践技能，既拓宽了我的视野，也提高了我的自学能力、信息收集能力和组织领导能力。
-
-          在本科阶段我既学习了电子信息学院电子信息工程专业的课程：**高等数学、复变函数、概率论与数理统计、高等物理、电路分析、数字逻辑电路、模拟电子电路、信号与系统**。
-
-          同时也学习了计算机学院计算机科学与技术专业的课程：**C、C++、Java、数据结构、计算方法、算法分析与设计、计算机组成原理、操作系统、计算机网络、数据库原理、编译原理、软件工程、计算机图形学、人工智能、数据挖掘、云计算**。
-
-  - title: 项目经历
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: 智能制造AI机器人
-        sub_title: 浙江省教育厅一般科研项目
-        caption: 2020年05月至2021年05月
-        # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        # link_text: Link Text
-        # additional_links:
-        #   - title: Github page for project (eg. sproogen/modern-resume-theme)
-        #     icon: fab fa-github
-        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          本项目主要涉及基于 Pytorch 语言的AI图像风格迁移算法，基于 C++ 语言的图像建模和路径规划算法，基于 C/C++ 语言的 STM32 ARM 芯片控制算法。
-        description: |
-          本项目采用AI图像风格迁移算法，对原始的人物肖像、风景等画像进行风格迁移，得到相应的可以进行快速稳定工业化加工的简笔画效果生成图，借助绘画机器人手臂，对生成图进行实际绘制。并借助自行开发的移动端小程序和桌面端网页，对结果进行展示和远程实时操作控制。
-
-          其项目应用场景可以是绘画、激光雕刻、纺织加工等，其核心在于我们自主研发的可以进行快速工业化加工的AI图像风格迁移算法。
-
-          基于该项目，我还以第一作者身份发表了**一篇国家发明专利**：《一种基于自监督学习的非配对人脸图像翻译方法》。
-
-      - layout: left
-        title: 多终端AI开放实验云平台
-        sub_title: 杭州电子科技大学研究生科研创新基金
-        caption: 2020年05月至2021年05月
-        quote: >
-          本项目主要涉及基于 React 架构的网页前端开发，基于 Taro 架构的微信小程序前端开发，基于 Java 语言的后端开发，基于 MySQL 语言的数据库。
-        description: |
-          本项目针对现有的学校AI算法实验室中，常用的几种 AI 人脸解释算法，开发一款后端多算法集成的远程在线实验平台，通过设计便捷的后端 API 接口，实现对多语言环境下的 AI 算法程序的简易集成；在前端的设计上分别开发桌面端网页平台和移动端微信小程序平台提供远程用户接口，方便科研实验室对多种 AI 算法进行远程实验和演示使用，同时也可以方便一些需要进行特定人工感知评分的 AI 模型（如 GANs 网络）得以进行方便的分享和线上评分。
-
-          该项目切合当前算法实验室的科研需求，解决了当前算法实验室普遍有算法成果展示需求但是没有算法演示平台开发精力的问题。
-
-      - layout: left
-        title: 英语选词填空智能作答机器人
-        sub_title: 杭州电子科技大学本科生毕业设计
-        caption: 2018年12月至2019年06月
-        quote: >
-          本项目主要涉及基于 JavaScript 和 JAVA 语言的微信小程序前后端开发，基于 MySQL 语言的数据库，基于 Tensorflow 语言的 AI 自然语言处理算法，基于 Pytorch 语言的 AI 图像文字识别算法。
-        description: |
-          本项目主要开发了一款基于语言模型算法和微信小程序开发平台的英语选词填空和单项选择自动智能作答软件。
-
-          在微信小程序软件开发过程中，我们采用了“微信小程序客户端+微信小程序云平台+云服务器”的自主软件设计架构，在微信小程序客户端实现基本的软件交互逻辑；在微信小程序云开发平台上实现云函数调用、云数据库管理和云存储功能；在云服务器中实现对英语选词填空句子和单项选择题目的基于 N-Gram 语言模型的句子组合方式 AI 评估，得到最优解答序列，并返回给微信小程序进行显示。
-
-          通过使用我们自行设计的“微信小程序客户端+微信小程序云平台+云服务器”的三级软件设计架构，可以突破微信小程序客户端在对于软件规模、软件功能上的限制，简化我们微信小程序的前端架构，提高我们后端在设计上的自由度和软件后续版本更新的便捷度和可扩展性。便于我们软件的维护、升级和二次重构。
-
-      - layout: left
-        title: 基于LSTM的股价预测
-        sub_title:
-        caption: 2017年12月至2018年02月
-        quote: >
-          等待网页内容完善
-        description: |
-
-      - layout: left
-        title: Linux内核开发
-        sub_title:
-        caption: 2017年10月至2018年02月
-        quote: >
-          等待网页内容完善
-        description: |
-          该项目主要涉及: Linux内核编译及添加系统调用；Linux内核模块编程; Linux进程管理；Linux终端应用设计；Linux同步机制设计；Linux简单文件系统的实现。
-
-          对该项目设计的代码，我进行了开源，如下是代码地址：[shaonianruntu/OS-lab](https://github.com/shaonianruntu/OS-lab)
-
-          如下是我书写的项目对应的解析文档和我对于计算机操作系统的理解笔记：[知乎专栏/操作系统笔记](https://www.zhihu.com/column/c_142990858)
-
-      - layout: left
-        title: 自动驾驶汽车
-        sub_title:
-        caption: 2017年07月至2017年11月
-        quote: >
-          等待网页内容完善
-        description: |
-          主要完成了自动驾驶汽车的车道线检测、红路灯识别、行人识别、车辆识别、图像分割、强化学习自训练。
-
-      - layout: left
-        title: 基于用户行为分析的智能家居节能系统
-        sub_title: 国家级大学生创新创业项目
-        caption: 2017年05月至2018年12月
-        quote: >
-          本项目主要涉及基于 C/C++ 语言的 STM32 ARM 芯片控制算法、物联网网关协议，电子集成电路设计，基于 Python 语言的树莓派控制算法，结合 MySQL 数据库的用户行为分析 AI 机器学习算法。
-        description: |
-          本项目主要开发了一种基于用户行为分析的智能家居节能系统。使用预测算法实现对用户家电使用行为的预测，提出一种室内家电运行调度算法，在保障用户舒适度的前提下，通过对电器运作状态的动态规划，有效提高能源的利用效率，减少用户的电力支出，达到节能的目的。
-
-          为了实现对家用电气的非侵入式状态检测和整屋家用电气的全局状态分析，我们自行研发了一款基于无线智能网关的智能家居节能系统，通过采用能耗采集模块和传感器监测模块对电器的用电情况和使用环境信息进行采集，在本地节点对电器能耗信息进行简单的处理后，通过 ZigBee 无线通信模块将用电情况发送给智能网关进行电器识别和用户行为分析学习，并将计算出来的控制信息反馈给控制模块，对电器状态进行相应的智能控制。同时，将电器的能耗信息和操作状态通过云平台反馈给用户。
-
-          基于该项目，我还以第一作者身份发表了**两篇计算机软件著作**：[《基于用户行为分析的智能家居节能系统》](https://www.zhifufu.com/software/f6ce8a5266784156828b81667f7051b4.html)和[《电器识别可视化系统》](https://www.zhifufu.com/software/ef083d9c0ab2418fbba4cc709a46157f.html)。
-
-          如下是该智能调节系统的演示展示视频：[基于用户行为分析的智能家居节能系统](https://www.bilibili.com/video/av27494462)。
-
-      - layout: left
-        title: 基于语音识别的智能老人看护系统
-        sub_title: 浙江省新苗人才计划
-        caption: 2017年06月至2018年10月
-        quote: >
-          该项目主要涉及基于 C/C++ 语言的 STM32 ARM 芯片、微芯 PLC18、STC51 芯片和树莓派的控制算法、物联网网关协议，电子集成电路设计，基于 JavaScript 和 JAVA 语言的网站前后端开发，基于 MySQL 语言的数据库，基于 Tensorflow 语言的 AI 自然语言处理算法。
-        description: |
-          本项目主要开发了一种新型基于语音识别的智能老人看护系统。
-
-          该系统由智能便携式胸针和智能家庭控制中心两部分构成，智能胸针除实现基本的装饰功能外，还能够实现防摔倒提醒和跌倒报警，当老人将要跌倒时通过胸针上自带的报警模块对老人进行预警提醒；到老人跌倒在地难以爬起时，通过智能家庭控制中心以短信的方式实时向子女报警。除此之外，智能胸针还具有语音信号采集的功能，将采集到的信号通过无线传输协议发送给主机进行处理。
-
-          智能家庭控制中心主要做的是语音信号处理和智能家庭控制，并添加远程智能摄像头，让子女能够实时监控家庭安全。从机的无线麦克风阵列采集到的经过前端降噪处理的语音通过在主机上进行汉语口音自适应处理、非命令词智能语义分析后得到精确的指令信息，控制主机实现对于相应的智能家居的控制。
-
-          基于该项目，我还以第一作者身份发表了**两篇计算机软件著作**：[《基于语音识别的智能老人看护系统》](https://www.zhifufu.com/software/cdc73b89bcd843ed93816efe8788d86f.html)和[《基于无线自组网协议的家电控制系统》](https://www.zhifufu.com/software/ecb05294e01e4abba97e5e185e0e22d6.html)。
-
-          如下是该智能老人看护系统的演示展示视频：[基于语音识别的智能老人看护系统](https://www.bilibili.com/video/av81282247)。
-
-      - layout: left
-        title: 基于STM32的智能儿童看护手表
-        sub_title: 杭州电子科技大学芯苗人才计划
-        caption: 2016年12月至2017年12月
-        quote: >
-          本项目主要涉及基于 C/C++ 语言的 STM32 芯片控制算法，电子集成电路设计。
-        description: |
-          本项目主要开发了一款集儿童健康和安全两个方面于一体的智能儿童看护手表，以 STM32 MCU 作为主控芯片, 结合外围电路和多种传感器加以实现。根据监护人的实际需求，该设计涵盖运动检测、环境监测、GPS定位、SOS报警四大方向并且具有记录儿童运动步数、GPS采集运动里程、时间和速度、温湿度检测、雾霾检测和报警、记录活动路程、设置电子栅栏超出范围短信通知家长、一键呼叫家长、向家长发送特定短信等多项功能。
-
-          该智能儿童看护手表的设计充分考虑了孩子监护人的实际需求，并通过电子技术的方法加以解决。
-
-      - layout: left
-        title: 防雾霾空气调节智能盒子
-        sub_title: 杭州电子科技大学芯苗人才计划
-        caption: 2016年12月至2017年12月
-        quote: >
-          本项目涉及基于 C/C++ 语言的 STM32 芯片控制算法、物联网网关协议，电子集成电路设计。
-        description: |
-          本项目主要开发了一款小体积的具有防雾霾功能的空气调节智能盒子。具有监测室内外温度，空气湿度，二氧化碳浓度以及颗粒物浓度等功能，并且可以根据这些指标的监测结果对数据进行分析，从而实现判断是否存在雾霾以及雾霾浓度测量功能。同时，如果监测到有雾霾超过一定量的浓度，盒子还可以自动调节门窗开关。
-
-      - layout: left
-        title: 旋转文字显示LED
-        sub_title: 杭州电子科技大学芯苗人才计划
-        caption: 2016年06月至2016年07月
-        quote: >
-          本项目主要涉及基于 C/C++ 语言的 STM32 芯片控制算法，电子集成电路设计。
-        description: |
-          本项目主要开发了具有中英文、字符符号和流水花纹样式显示功能的旋转LED灯，利用人眼的视觉残留效应，自动调节LED灯管的旋转周期时间，以利用一根高速旋转的灯管实现整体圆周面的画面恒久显示。
-
-          为了实现对于LED灯管的转速与显示残留时长的协同控制，通过在LED灯管下方和台灯底座上方安装红外对接收发设备，LED灯管上的红外接收管每转动一圈就会导通一次，让单片机知道从哪一点开始播放字符或者图象具有很高的欣赏价值。
-
-          该旋转文字显示LED的实现源代码和电子集成电路设计版图为：[shaonianruntu/Rotating-LED](https://github.com/shaonianruntu/Rotating-LED)。
-
-          如下是该旋转文字显示LED的演示展示视频：[旋转文字显示LED](https://www.bilibili.com/video/BV12s411K7yK)。
-
-  - title: 科研背景
-    layout: list
-    content:
-      - layout: left
-        title: 智能可视化建模与仿真实验室
-        sub_title: 杭州电子科技大学计算机学院
-        caption: 2021年01月至2022年06月
-        link: http://igame.hdu.edu.cn
-        link_text: igame.hdu.edu.cn
-        description: |
-          **硕士研究员**
-
-          指导老师：[高飞副教授](http://computer.hdu.edu.cn/11269.html)
-
-          主管老师：[徐岗教授](http://mypage.hdu.edu.cn/xugang)
-      - layout: left
-        title: 媒体智能实验室
-        sub_title: 杭州电子科技大学计算机学院
-        caption: 2019年09月至2020年12月
-        link: http://mil.hdu.edu.cn
-        link_text: mil.hdu.edu.cn
-        description: |
-          **硕士研究员**
-
-          指导老师：[高飞副教授](http://computer.hdu.edu.cn/11269.html)
-
-          主管老师：[俞俊教授](http://mil.hdu.edu.cn/people/jun_yu/index.html)
-      - layout: left
-        title: 复杂系统建模与仿真教育部重点实验室
-        sub_title: 杭州电子科技大学计算机学院
-        caption: 2019年09月至2020年12月
-        link: http://mil.hdu.edu.cn
-        link_text: mil.hdu.edu.cn
-        description: |
-          **硕士研究员**
-
-          指导老师：[高飞副教授](http://computer.hdu.edu.cn/11269.html)
-
-          主管老师：[俞俊教授](http://mil.hdu.edu.cn/people/jun_yu/index.html)
-      - layout: left
-        title: 微芯-杭电大学生科技创新孵化器实验室
-        sub_title: 杭州电子科技大学电子信息学院
-        caption: 2016年06月至2019年06月
-        link: http://microchip.didimama.com/index.php?m=Plan&a=show&id=73
-        link_text: microchip.didimama.com
-        description: |
-          **本科研究员、软件组组长**
-
-          指导老师：[张珣教授](http://zhanqun.hdu.edu.cn/_s51/2017/1204/c1827a57563/page.psp)、[张钰教授](http://elec.hdu.edu.cn/2017/1205/c1827a57682/page.htm)
-
-          主管老师：[张珣教授](http://zhanqun.hdu.edu.cn/_s51/2017/1204/c1827a57563/page.psp)、[张钰教授](http://elec.hdu.edu.cn/2017/1205/c1827a57682/page.htm)
-
-  - title: 科研经历
-    layout: list
-    content:
-      - layout: left
-        title:
-        sub_title:
-        caption:
-        description: |
-          等待网页内容完善，或者可以下载网页右上角的履历文档。
-
-  - title: 获奖经历
-    layout: list
-    content:
-      - layout: left
-        title: 杭州电子科技大学
-        sub_title: 计算机科学与技术硕士学位
-        caption: 2019年09月至今
-        description: |
-          《杭州电子科技大学研究生奖学金》一等奖<br>
-          《杭州电子科技大学研究生奖学金》二等奖<br>
-          《第六届浙江省国际“互联网+”大学生创新创业大赛》铜奖<br>
-          《杭州电子科技大学“互联网+”大学生创新创业大赛》一等奖 * 2<br>
-          《浙江省第十二届“挑战杯·宁波江北”大学生创业计划竞赛》二等奖<br>
-          《杭州电子科技大学“挑战杯”大学生创业计划竞赛》一等奖<br>
-          《杭州市钱江新区首届大学生创新创业大赛》40强<br>
-          《国家级大学生创新创业训练计划项目》<br>
-          《杭州电子科技大学大学生创新创业训练计划项目》<br>
-          《浙江省教育厅一般科研项目》<br>
-          《杭州电子科技大学研究生科研创新基金》 * 2<br>
-          《杭州电子科技大学第二十二届数学建模竞赛》三等奖<br>
-          《杭州电子科技大学“问鼎杯”大学生课外学术科技作品竞赛》二等奖<br>
-
-      - layout: left
-        title: 杭州电子科技大学
-        sub_title: 计算机科学与技术学士学位
-        caption: 2015年09月至2019年06月
-        description: |
-          《杭州电子科技大学优秀团干部》<br>
-          《杭州电子科技大学奖学金》一等奖<br>
-          《杭州电子科技大学奖学金》三等奖 * 5<br>
-          《杭州电子科技大学创新创业单项奖学金》<br>
-          《国家级大学生创新创业训练计划项目》<br>
-          《浙江省新苗人才计划项目》<br>
-          《杭州电子科技大学电子信息学院芯苗人才计划项目》 * 2
-
-  - title: 我的更多
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      我的社交账户有：[知乎](https://www.zhihu.com/people/DarkBluecenter)、[豆瓣](https://www.douban.com/people/shaonianruntu/)。
-
-# Footer
-footer_show_references: false
-# references_title: References on request (Override references text)
-
-# Build settings
-remote_theme: sproogen/resume-theme
-
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+# Site Settings
+locale: "zh-CN"
+title: "Your Name / Site Title"
+title_separator: "-"
+name: &name "Your Name"
+description: &description "personal description"
+url: https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "" # the subpath of your site, e.g. "/blog"
+repository: "academicpages/academicpages.github.io"
+teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs: false # true, false (default)
+words_per_minute: 160
+future: true
+read_more: "disabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link: false #change to true to add link to talkmap on talks page
+comments:
+  provider: # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  disqus:
+    shortname:
+  discourse:
+    server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    appid:
+    num_posts: # 5 (default)
+    colorscheme: # "light" (default), "dark"
+staticman:
+  allowedFields: ["name", "email", "url", "message"]
+  branch: "gh-pages" # "master", "gh-pages"
+  commitMessage: "New comment."
+  filename: comment-{@timestamp}
+  format: "yml"
+  moderation: true
+  path: "_data/comments/{options.slug}"
+  requiredFields: ["name", "email", "message"]
+  transforms:
+    email: "md5"
+  generatedFields:
+    date:
+      type: "date"
+      options:
+        format: "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+atom_feed:
+  path: # blank (default) uses feed.xml
+
+# SEO Related
+google_site_verification:
+bing_site_verification:
+alexa_site_verification:
+yandex_site_verification:
+
+# Social Sharing
+twitter:
+  username: &twitter
+facebook:
+  username:
+  app_id:
+  publisher:
+og_image: # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type: # Person or Organization (defaults to Person)
+  name: # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+
+# Analytics
+analytics:
+  provider: "google-universal" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id:
+
+# Site Author
+author:
+  name: "方楠 Nan Fang"
+  avatar: "profile2.JPG"
+  bio:
+  location: "Shanghai, China"
+  employer:
+  pubmed:
+  googlescholar: "http://yourfullgooglescholarurl.com"
+  email: "fangnan97@qq.com"
+  researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
+  uri:
+  bitbucket:
+  codepen:
+  dribbble:
+  flickr:
+  facebook:
+  foursquare:
+  github: "shaonianruntu"
+  google_plus:
+  keybase:
+  instagram:
+  impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm:
+  linkedin: "fangnan97"
+  orcid:
+  pinterest:
+  soundcloud:
+  stackoverflow: # http://stackoverflow.com/users/123456/username
+  steam:
+  tumblr:
+  twitter:
+  vine:
+  weibo:
+  xing:
+  youtube:
+  wikipedia:
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
+  - log
+  - node_modules
+  - package.json
+  - tmp
+  - vendor
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Collections
+collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+
+# Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
+# Outputting
+permalink: /:categories/:title/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Plugins
 plugins:
-  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
