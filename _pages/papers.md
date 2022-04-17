@@ -9,7 +9,7 @@ author_profile: true
 
 ## 论文
 
-1. Gao F, Fang N. Contrastive Learning of Style Representations for Unsupervised Facial Sketch Synthesis[J]. IEEE Transactions on Image Processing (TIP), 2022. (SCI 一区，领域顶级期刊，影响因子 10.856，在投)
+1. Gao F, Fang N. Contrastive Learning of Style Representations for Unsupervised Facial Sketch Synthesis[J]. IEEE Transactions on Image Processing (TIP), 2022. （SCI 一区，领域顶级期刊，影响因子 10.856，在投）
 
 ## 发明专利
 
