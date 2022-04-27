@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "工作经历"
-    url: /works/
+    url: /work/
 
   - title: "教育经历"
-    url: /educations/
+    url: /education/
 
   - title: "学术成果"
-    url: /papers/
+    url: /paper/
 
   - title: "项目经历"
-    url: /projects/
+    url: /project/
 
   - title: "竞赛经历"
-    url: /competitions/
+    url: /competition/
 
   - title: "作品集锦"
-    url: /collections/
+    url: /collection/
 
   # - title: "Publications"
   #   url: /publications/

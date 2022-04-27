@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "学术成果"
-permalink: /papers/
+permalink: /paper/
 author_profile: true
 ---
 

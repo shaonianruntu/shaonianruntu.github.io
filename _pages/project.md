@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "项目经历"
-permalink: /projects/
+permalink: /project/
 author_profile: true
 ---
 

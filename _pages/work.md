@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "工作经历"
-permalink: /works/
+permalink: /work/
 author_profile: true
 ---
 
@@ -13,7 +13,7 @@ author_profile: true
 
 工作岗位：R&D Engineer II 研发工程师
 
-工作内容：在 Digital Design and Signoff Group 数字设计与验证部门的 Global Routing Team 全局布线组从事集成电路内部晶体管的逻辑布局和布线算法研发的工作, 主要负责 [Innvous™](https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/soc-implementation-and-floorplanning/innovus-implementation-system.html)。
+工作内容：在 Digital Design and Signoff Group 数字设计与验证部门的 Global Routing Team 全局布线组从事集成电路内部晶体管的逻辑布局和布线算法研发的工作, 主要负责 [Innovus™](https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/soc-implementation-and-floorplanning/innovus-implementation-system.html)。
 
 公司介绍：[Cadence](www.cadence.com) 成立于 1988 年，总部位于美国硅谷，是电子系统设计领域的关键领导者。基于公司的智能系统设计战略，Cadence 致力于提供软件、硬件和 IP 产品，助力电子设计概念成为现实。Cadence 的客户遍布全球，皆为最具创新能力的企业，他们向超大规模计算、5G 通讯、汽车、移动、航空、消费电子、工业和医疗等最具活力的应用市场交付从芯片、电路板到完整系统的卓越电子产品。
 
