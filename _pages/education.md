@@ -1,0 +1,8 @@
+---
+layout: archive
+title: "教育经历"
+permalink: /education/
+author_profile: true
+---
+
+{% include base_path %}
