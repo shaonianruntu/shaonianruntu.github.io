@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "工作经历"
-    url: /work/
+  - title: "PROFESSIONAL" # PROFESSIONAL EXPERIENCE
+    url: /professional/
 
-  - title: "教育经历"
+  - title: "EDUCATION" # EDUCATION BACKGROUND
     url: /education/
 
-  - title: "学术成果"
-    url: /paper/
+  - title: "ACADEMIC" # ACADEMIC ACHIEVEMENT
+    url: /academic/
 
-  - title: "项目经历"
+  - title: "PROJECT" # PROJECT EXPERIENCE
     url: /project/
 
-  - title: "竞赛经历"
+  - title: "COMPETITION" # COMPETITION EXPERIENCE
     url: /competition/
 
-  - title: "作品集锦"
-    url: /collection/
+  - title: "GALLERY" #
+    url: /gallery/
 
   # - title: "Publications"
   #   url: /publications/
