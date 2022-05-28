@@ -24,3 +24,17 @@ See more info at https://academicpages.github.io/
 1. Run `bundle clean` to clean up the directory (no need to run `--force`)
 1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+
+### Solution of `commonmarker` error at `bundle install` stage in Mac.
+
+https://stackoverflow.com/questions/63729369/commonmarker-gem-cannot-be-installed-needed-for-jekyll-macos
+
+```
+cd /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0
+ln -sf universal-darwin20 universal-darwin19
+```
+
+# RoadMap
+
+- [ ] multi langugae support (chinese and english)
+- [ ]
