@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "COMPETITION EXPERIENCE"
+title: "SUBJECT COMPETITION"
 permalink: /competition/
 author_profile: true
 ---
