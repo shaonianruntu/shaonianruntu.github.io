@@ -13,7 +13,7 @@ author_profile: true
 
 ### CONTENT
 
-R&D Software Enigneer II of Route Team, Digital Design and Signoff Group, responsible for [Innovus™](https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/soc-implementation-and-floorplanning/innovus-implementation-system.html).
+R&D Software Enigneer II of NanoRoute Team, Digital and Signoff Group, responsible for [Innovus™](https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/soc-implementation-and-floorplanning/innovus-implementation-system.html).
 
 ### OVERVIEW
 
